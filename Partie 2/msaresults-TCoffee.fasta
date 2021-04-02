@@ -1,0 +1,1561 @@
+>smart|BROMO-ensembl|ENSP00000334351|ENSP00000334351/2782-2890  no description [Homo sapiens]
+LTPLTE----KDYEGLKRVL---RSL------------------------------Q---
+-----------------------------------------------------------A
+H-KM-A----WPFL-----------EPVD------P--N--D------------------
+-------A----------------PD---------------YYGVIKEPMDLATMEERVQ
+RR---YYEKLTEFVADMTKIFDNCRYYNPS-D-----------------SPF----YQCA
+EVLES-F-FVQ-KLKGF-KA
+>smart|BROMO-ensembl|ENSP00000445036|ENSP00000445036/1425-1536  no description [Homo sapiens]
+PPNLTK----KMKKIVDAVI---KYK-----D-----------------S-----SS---
+-----------------------------------------------------------G
+R-QL-S----EVFI-----------QLPS------R--K--E------------------
+-------L----------------PE---------------YYELIRKPVDFKKIKERIR
+NH---KYRSLNDLEKDVMLLCQNAQTFNLE-G-----------------SLI----YEDS
+IVLQS-V-FTS-VRQKI-EK
+>smart|BROMO-uniprot|A6H8Y8|A6H8Y8_HUMAN/142-249  ZMYND8 protein [Homo sapiens]
+TMLTIE----QLSYLLKFAI---Q-------------------------------KM---
+-----------------------------------------------------------K
+Q-PG-T----DAFQ-----------KPVP------L--E--Q------------------
+-------H----------------PD---------------YAEYIFHPMDLCTLEKNAK
+KK---MYGCTEAFLADAKWILHNCIIYNGG-N-----------------HKL----TQIA
+KVVIK-I-CEH-EMNEI-EV
+>smart|BROMO-uniprot|B0QZE2|B0QZE2_HUMAN/97-203  Zinc finger MYND domain-containing protein 11 [Homo sapiens]
+KNTNKQ----EMGTYLRFIV---S-------------------------------RM---
+-----------------------------------------------------------K
+E-R--A----IDLN-----------KKGK------D--N--K------------------
+-------H----------------PM---------------YRRLVHSAVDVPTIQEKVN
+EG---KYRSYEEFKADAQLLLHNTVIFYGA-D-----------------SEQ----ADIA
+RMLYK-D-TCH-EIPNH-EL
+>smart|BROMO-uniprot|B1ALF6|B1ALF6_HUMAN/86-196  Probable global transcription activator SNF2L2 [Homo sapiens]
+PPKLTK----QMNAIIDTVI---NYK-----D-----------------------SS---
+-----------------------------------------------------------G
+R-QL-S----EVFI-----------QLPS------R--K--E------------------
+-------L----------------PE---------------YYELIRKPVDFKKIKERIR
+NH---KYRSLGDLEKDVMLLCHNAQTFNLE-G-----------------SQI----YEDS
+IVLQS-V-FKS-ARQKI-AK
+>smart|BROMO-uniprot|B4DMS9|B4DMS9_HUMAN/484-592  cDNA FLJ59577, highly similar to Bromodomain-containing protein 8 [Homo sapiens]
+AIQAQK----IWKKAIMLVW---RAA------------------------------A---
+-----------------------------------------------------------N
+H-RY-A----NVFL-----------QPVT------D--D--I------------------
+-------A----------------PG---------------YHSIVQRPMDLSTIKKNIE
+NG---LIRSTAEFQRDIMLMFQNAVMYNSS-D-----------------HDV----YHMA
+VEMQR-D-VLE-QIQQF-LA
+>smart|BROMO-uniprot|B4DN43|B4DN43_HUMAN/689-797  cDNA FLJ58202, highly similar to Bromodomain-containing protein 8 [Homo sapiens]
+AIQAQK----IWKKAIMLVW---RAA------------------------------A---
+-----------------------------------------------------------N
+H-RY-A----NVFL-----------QPVT------D--D--I------------------
+-------A----------------PG---------------YHSIVQRPMDLSTIKKNIE
+NG---LIRSTAEFQRDIMLMFQNAVMYNSS-D-----------------HDV----YHMA
+VEMQR-D-VLE-QIQQF-LA
+>smart|BROMO-uniprot|B4E3L9|B4E3L9_HUMAN/560-668  Bromodomain-containing protein 1 [Homo sapiens]
+MELRLT----PLTVLLRSVL---DQL------------------------------Q---
+-----------------------------------------------------------D
+K-DP-A----RIFA-----------QPVS------L--K--E------------------
+-------V----------------PD---------------YLDHIKHPMDFATMRKRLE
+AQ---GYKNLHEFEEDFDLIIDNCMKYNAR-D-----------------TVF----YRAA
+VRLRD-Q-GGV-VLRQA-RR
+>smart|BROMO-uniprot|B7Z2J6|B7Z2J6_HUMAN/97-202  cDNA FLJ50504, highly similar to Mus musculus zinc finger, MYND domain containing 11 (Zmynd11), mRNA [Homo sapiens]
+KNTNKQ----EMGTYLRFIV---S-------------------------------RM---
+-----------------------------------------------------------K
+E-R--A----IDLN-----------KKGK------D--N--K------------------
+-------H----------------PM---------------YRRLVHSAVDVPTIQEKVN
+EG---KYRSYEEFKADAQLLLHNTVIFYGD-------------------SEQ----ADIA
+RMLYK-D-TCH-ELDEL-QL
+>smart|BROMO-uniprot|B7ZLN5|B7ZLN5_HUMAN/587-695  BRPF3 protein [Homo sapiens]
+MELELM----PFNVLLRTTL---DLL------------------------------Q---
+-----------------------------------------------------------E
+K-DP-A----HIFA-----------EPVN------L--S--E------------------
+-------V----------------PD---------------YLEFISKPMDFSTMRRKLE
+SH---LYRTLEEFEEDFNLIVTNCMKYNAK-D-----------------TIF----HRAA
+VRLRD-L-GGA-ILRHA-RR
+>smart|BROMO-uniprot|B9EGQ8|B9EGQ8_HUMAN/1489-1600  SMARCA4 protein [Homo sapiens]
+PPNLTK----KMKKIVDAVI---KYK-----D-----------------S-----SS---
+-----------------------------------------------------------G
+R-QL-S----EVFI-----------QLPS------R--K--E------------------
+-------L----------------PE---------------YYELIRKPVDFKKIKERIR
+NH---KYRSLNDLEKDVMLLCQNAQTFNLE-G-----------------SLI----YEDS
+IVLQS-V-FTS-VRQKI-EK
+>smart|BROMO-uniprot|E7ENI9|E7ENI9_HUMAN/133-226  Zinc finger MYND domain-containing protein 11 [Homo sapiens]
+LRDSSS----PWQCPVCRS-----------------------------------------
+------------------------------------------------------------
+-----------IKK-----------KNTN------K--Q--E------------------
+-------M----------------GT---------------YLRFIVSRM----KERKVN
+EG---KYRSYEEFKADAQLLLHNTVIFYGA-D-----------------SEQ----ADIA
+RMLYK-D-TCH-ELDEL-QL
+>smart|BROMO-uniprot|E7EUR5|E7EUR5_HUMAN/729-832  Nuclear body protein SP140 [Homo sapiens]
+CPEEQL----KCEFLLLKVY---CCS----------------------------------
+------------------------------------------------------------
+---E-S----SFFA-----------KIPY------Y--Y--Y------------------
+-------I----------------RE---------------ACQGLKEPMWLDKIKKRLN
+EH---GYPQVEGFVQDMRLIFQNHRASYKY-------------------KDF----GQMG
+FRLEA-E-FEK-NFKEV-FA
+>smart|BROMO-uniprot|E9PFJ6|E9PFJ6_HUMAN/696-799  Nuclear body protein SP140 [Homo sapiens]
+CPEEQL----KCEFLLLKVY---CCS----------------------------------
+------------------------------------------------------------
+---E-S----SFFA-----------KIPY------Y--Y--Y------------------
+-------I----------------RE---------------ACQGLKEPMWLDKIKKRLN
+EH---GYPQVEGFVQDMRLIFQNHRASYKY-------------------KDF----GQMG
+FRLEA-E-FEK-NFKEV-FA
+>smart|BROMO-uniprot|E9PI60|E9PI60_HUMAN/587-695  Bromodomain and PHD finger-containing protein 3 [Homo sapiens]
+MELELM----PFNVLLRTTL---DLL------------------------------Q---
+-----------------------------------------------------------E
+K-DP-A----HIFA-----------EPVN------L--S--E------------------
+-------V----------------PD---------------YLEFISKPMDFSTMRRKLE
+SH---LYRTLEEFEEDFNLIVTNCMKYNAK-D-----------------TIF----HRAA
+VRLRD-L-GGA-ILRHA-RR
+>smart|BROMO-uniprot|F5GY84|F5GY84_HUMAN/680-766  Nuclear body protein SP140 [Homo sapiens]
+CPEEQL----KCEFLLLKVY---CCS----------------------------------
+------------------------------------------------------------
+---E-S----SFFA-----------KIPY------Y--Y--Y------------------
+-------I----------------RE---------------ACQGLKEPMWLDKIKKRLN
+EH---GYPQVEGFVQDMRLIFQNHRASYKA-------------------VHG-----RP-
+-------------------G
+>smart|BROMO-uniprot|F5H0X3|F5H0X3_HUMAN/174-281  Protein kinase C-binding protein 1 [Homo sapiens]
+TMLTIE----QLSYLLKFAI---Q-------------------------------KM---
+-----------------------------------------------------------K
+Q-PG-T----DAFQ-----------KPVP------L--E--Q------------------
+-------H----------------PD---------------YAEYIFHPMDLCTLEKNAK
+KK---MYGCTEAFLADAKWILHNCIIYNGG-N-----------------HKL----TQIA
+KVVIK-I-CEH-EMNEI-EV
+>smart|BROMO-uniprot|F5H4E5|F5H4E5_HUMAN/75-198  Uncharacterized protein KIAA2026 (Fragment) [Homo sapiens]
+LTYELQ----QGYRILGEFL---QEK------------------------------H---
+------------------------------------------------------------
+R-GL-T----APFL-----------QPLG------G--V--A------------------
+-------TAEEEVAEGPRSGGRGGRA---------------FPQQPGQGMCLLQMEEKFA
+SG---QYGGITEFVADFRLMLETCYRLHGV-D-----------------HWI----SKQG
+QKLEM-M-LEQ-KLALL-SR
+>smart|BROMO-uniprot|F5H6M9|F5H6M9_HUMAN/253-356  Bromodomain-containing protein 1 [Homo sapiens]
+MELRLT----PLTVLLRSVL---DQL------------------------------Q---
+-----------------------------------------------------------D
+K-DP-A----RIFA-----------QP---------------------------------
+-------V----------------PD---------------YLDHIKHPMDFATMRKRLE
+AQ---GYKNLHEFEEDFDLIIDNCMKYNAR-D-----------------TVF----YRAA
+VRLRD-Q-GGV-VLRQA-RR
+>smart|BROMO-uniprot|H0Y6K2|H0Y6K2_HUMAN/352-461  Bromodomain-containing protein 2 (Fragment) [Homo sapiens]
+LSEQLK----HCNGILKELL---SK-------------------------------K---
+-----------------------------------------------------------H
+A-AY-A----WPFY-----------KPVD------A--SALG------------------
+-------L----------------HD---------------YHDIIKHPMDLSTVKRKME
+NR---DYRDAQEFAADVRLMFSNCYKYNPP-D-----------------HDV----VAMA
+RKLQD-V-FEF-RYAKM-PD
+>smart|BROMO-uniprot|H0Y6K2|H0Y6K2_HUMAN/78-188  Bromodomain-containing protein 2 (Fragment) [Homo sapiens]
+PGRVTN----QLQYLHKVVM---KAL------------------------------W---
+-----------------------------------------------------------K
+H-QF-A----WPFR-----------QPVD------AVKL--G------------------
+-------L----------------PD---------------YHKIIKQPMDMGTIKRRLE
+NN---YYWAASECMQDFNTMFTNCYIYNKP-T-----------------DDI----VLMA
+QTLEK-I-FLQ-KVASM-PQ
+>smart|BROMO-uniprot|H0Y8N6|H0Y8N6_HUMAN/44-148  Transcription initiation factor TFIID subunit 1 (Fragment) [Homo sapiens]
+RTDPMV----TLSSILESII---NDM------------------------------R---
+-----------------------------------------------------------D
+L-PN-T----YPFH-----------TPVN------A--K--V------------------
+-------V----------------KD---------------YYKIITRPMDLQTLRENVR
+KR---LYPSREEFREHLELIVKNSATYNGI-G-----------------IRI----KHTR
+-SIEK-GHSHH-HL-----P
+>smart|BROMO-uniprot|H0YF52|H0YF52_HUMAN/175-281  Tripartite motif-containing protein 66 (Fragment) [Homo sapiens]
+SMYDQK----KCEKLVLSLC---C------------------------------------
+------------------------------------------------------------
+N-NL-S----LPFH-----------EPV-------S--P--L------------------
+-------A----------------RH---------------YYQIIKRPMDLSIIRRKLQ
+KKDPAHYTTPEEVVSDVRLMFWNCAKFNYP-D-----------------SEV----AEAG
+RCLEV-F-FEG-WLKEI-YP
+>smart|BROMO-uniprot|H7C026|H7C026_HUMAN/207-315  Bromodomain-containing protein 8 (Fragment) [Homo sapiens]
+PVQDHL----LFKKTLLPVW---KMI------------------------------A---
+-----------------------------------------------------------S
+H-RF-S----SPFL-----------KPVS------E--R--Q------------------
+-------A----------------PG---------------YKDVVKRPMDLTSLKRNLS
+KG---RIRTMAQFLRDLMLMFQNAVMYNDS-D-----------------HHV----YHMA
+VEMRQ-E-VLE-QIQVL-YA
+>smart|BROMO-uniprot|H7C0U2|H7C0U2_HUMAN/70-191  Protein kinase C binding protein 1, isoform CRA_h [Homo sapiens]
+HREGQV----LCCELCPRVY---HAKCLRLTS-----------------EPEGDWFC---
+-----------------------------------------------------------P
+E-CE-T----DAFQ-----------KPVP------L--E--Q------------------
+-------H----------------PD---------------YAEYIFHPMDLCTLEKNAK
+KK---MYGCTEAFLADAKWILHNCIIYNGG-N-----------------HKL----TQIA
+KVVIK-I-CEH-EMNEI-EV
+>smart|BROMO-uniprot|H7C127|H7C127_HUMAN/734-842  Bromodomain-containing protein 8 (Fragment) [Homo sapiens]
+AIQAQK----IWKKAIMLVW---RAA------------------------------A---
+-----------------------------------------------------------N
+H-RY-A----NVFL-----------QPVT------D--D--I------------------
+-------A----------------PG---------------YHSIVQRPMDLSTIKKNIE
+NG---LIRSTAEFQRDIMLMFQNAVMYNSS-D-----------------HDV----YHMA
+VEMQR-D-VLE-QIQQF-LA
+>smart|BROMO-uniprot|H7C2K9|H7C2K9_HUMAN/155-264  Transcription initiation factor TFIID subunit 1 (Fragment) [Homo sapiens]
+DDDDQV----AFSFILDNIV---TQK------------------------------MM--
+-----------------------------------------------------------A
+V-PD-S----WPFH-----------HPVN------K--K--F------------------
+-------V----------------PD---------------YYKVIVNPMDLETIRKNIS
+KH---KYQSRESFLDDVNLILANSVKYNGP-E-----------------SQY----TKTA
+QEIVN-V-CYQ-TLTEY-DE
+>smart|BROMO-uniprot|H7C2K9|H7C2K9_HUMAN/33-141  Transcription initiation factor TFIID subunit 1 (Fragment) [Homo sapiens]
+RTDPMV----TLSSILESII---NDM------------------------------R---
+-----------------------------------------------------------D
+L-PN-T----YPFH-----------TPVN------A--K--V------------------
+-------V----------------KD---------------YYKIITRPMDLQTLRENVR
+KR---LYPSREEFREHLELIVKNSATYNGP-K-----------------HSL----TQIS
+QSMLD-L-CDE-KLKEK-ED
+>smart|BROMO-uniprot|H7C409|H7C409_HUMAN/141-247  Bromodomain and WD repeat-containing protein 1 (Fragment) [Homo sapiens]
+GEWGQKSRDEECDRIISGID---Q-------------------------------LL---
+-----------------------------------------------------------N
+L-DI-A----AAFA-----------GPVD------L--C--T------------------
+-------Y----------------PK---------------YCTVVAYPTDLYTIRMRLV
+NR---FYRRLSALVWEVRYIEHNARTFNEP-E-----------------SVI----ARSA
+KKITD-Q-LLK-F------I
+>smart|BROMO-uniprot|H7C409|H7C409_HUMAN/248-358  Bromodomain and WD repeat-containing protein 1 (Fragment) [Homo sapiens]
+KNQHCT----NISELSN-------TS------------------------------E---
+-----------------------------------------------------------N
+D-EQNAEDLDDSDL-----------PKTS------S--G--R------------------
+-------R----------------RD---------------YRDIIDTPMDFGTVRETLD
+AG---NYDSPLEFCKDIRLIFSNAKAYTPNKR-----------------SKI----YSMT
+LRLSA-L-FEE-KMKKI-SS
+>smart|BROMO-uniprot|I3L466|I3L466_HUMAN/39-150  CREB-binding protein (Fragment) [Homo sapiens]
+IFKPE-----ELRQALMPTL---EAL------------------------------Y---
+-----------------------------------------------------------R
+QDPE-S----LPFR-----------QPVD------PQLL--G------------------
+-------I----------------PD---------------YFDIVKNPMDLSTIKRKLD
+TG---QYQEPWQYVDDVWLMFNNAWLYNRK-T-----------------SRV----YKFC
+SKLAEDQ-FEK-KKNDT-LD
+>smart|BROMO-uniprot|J3KNX6|J3KNX6_HUMAN/155-263  Bromodomain-containing protein 1 [Homo sapiens]
+MELRLT----PLTVLLRSVL---DQL------------------------------Q---
+-----------------------------------------------------------D
+K-DP-A----RIFA-----------QPVS------L--K--E------------------
+-------V----------------PD---------------YLDHIKHPMDFATMRKRLE
+AQ---GYKNLHEFEEDFDLIIDNCMKYNAR-D-----------------TVF----YRAA
+VRLRD-Q-GGV-VLRQA-RR
+>smart|BROMO-uniprot|J3KQ61|J3KQ61_HUMAN/192-300  Bromodomain-containing protein 1 (Fragment) [Homo sapiens]
+MELRLT----PLTVLLRSVL---DQL------------------------------Q---
+-----------------------------------------------------------D
+K-DP-A----RIFA-----------QPVS------L--K--E------------------
+-------V----------------PD---------------YLDHIKHPMDFATMRKRLE
+AQ---GYKNLHEFEEDFDLIIDNCMKYNAR-D-----------------TVF----YRAA
+VRLRD-Q-GGV-VLRQA-RR
+>smart|BROMO-uniprot|O15016|TRI66_HUMAN/1043-1149  Tripartite motif-containing protein 66 [Homo sapiens]
+SMYDQK----KCEKLVLSLC---C------------------------------------
+------------------------------------------------------------
+N-NL-S----LPFH-----------EPV-------S--P--L------------------
+-------A----------------RH---------------YYQIIKRPMDLSIIRRKLQ
+KKDPAHYTTPEEVVSDVRLMFWNCAKFNYP-D-----------------SEV----AEAG
+RCLEV-F-FEG-WLKEI-YP
+>smart|BROMO-uniprot|O15164-2|O15164-2/867-972  Isoform Short of Transcription intermediary factor 1-alpha [Homo sapiens]
+TPIDKR----KCERLLLFLY---C------------------------------------
+------------------------------------------------------------
+H-EM-S----LAFQ-----------DPV-------P--L--T------------------
+-------V----------------PD---------------YYKIIKNPMDLSTIKKRLQ
+ED-YSMYSKPEDFVADFRLIFQNCAEFNEP-D-----------------SEV----ANAG
+IKLEN-Y-FEE-LLKNL-YP
+>smart|BROMO-uniprot|O15164|TIF1A_HUMAN/901-1006  Transcription intermediary factor 1-alpha [Homo sapiens]
+TPIDKR----KCERLLLFLY---C------------------------------------
+------------------------------------------------------------
+H-EM-S----LAFQ-----------DPV-------P--L--T------------------
+-------V----------------PD---------------YYKIIKNPMDLSTIKKRLQ
+ED-YSMYSKPEDFVADFRLIFQNCAEFNEP-D-----------------SEV----ANAG
+IKLEN-Y-FEE-LLKNL-YP
+>smart|BROMO-uniprot|O60885-3|O60885-3/350-459  Isoform B of Bromodomain-containing protein 4 [Homo sapiens]
+VSEQLK----CCSGILKEMF---AK-------------------------------K---
+-----------------------------------------------------------H
+A-AY-A----WPFY-----------KPVD------V--EALG------------------
+-------L----------------HD---------------YCDIIKHPMDMSTIKSKLE
+AR---EYRDAQEFGADVRLMFSNCYKYNPP-D-----------------HEV----VAMA
+RKLQD-V-FEM-RFAKM-PD
+>smart|BROMO-uniprot|O60885-3|O60885-3/56-166  Isoform B of Bromodomain-containing protein 4 [Homo sapiens]
+PKRQTN----QLQYLLRVVL---KTL------------------------------W---
+-----------------------------------------------------------K
+H-QF-A----WPFQ-----------QPVD------AVKL--N------------------
+-------L----------------PD---------------YYKIIKTPMDMGTIKKRLE
+NN---YYWNAQECIQDFNTMFTNCYIYNKP-G-----------------DDI----VLMA
+EALEK-L-FLQ-KINEL-PT
+>smart|BROMO-uniprot|O60885|BRD4_HUMAN/350-459  Bromodomain-containing protein 4 [Homo sapiens]
+VSEQLK----CCSGILKEMF---AK-------------------------------K---
+-----------------------------------------------------------H
+A-AY-A----WPFY-----------KPVD------V--EALG------------------
+-------L----------------HD---------------YCDIIKHPMDMSTIKSKLE
+AR---EYRDAQEFGADVRLMFSNCYKYNPP-D-----------------HEV----VAMA
+RKLQD-V-FEM-RFAKM-PD
+>smart|BROMO-uniprot|O60885|BRD4_HUMAN/56-166  Bromodomain-containing protein 4 [Homo sapiens]
+PKRQTN----QLQYLLRVVL---KTL------------------------------W---
+-----------------------------------------------------------K
+H-QF-A----WPFQ-----------QPVD------AVKL--N------------------
+-------L----------------PD---------------YYKIIKTPMDMGTIKKRLE
+NN---YYWNAQECIQDFNTMFTNCYIYNKP-G-----------------DDI----VLMA
+EALEK-L-FLQ-KINEL-PT
+>smart|BROMO-uniprot|O95696-2|O95696-2/560-668  Isoform 2 of Bromodomain-containing protein 1 [Homo sapiens]
+MELRLT----PLTVLLRSVL---DQL------------------------------Q---
+-----------------------------------------------------------D
+K-DP-A----RIFA-----------QPVS------L--K--E------------------
+-------V----------------PD---------------YLDHIKHPMDFATMRKRLE
+AQ---GYKNLHEFEEDFDLIIDNCMKYNAR-D-----------------TVF----YRAA
+VRLRD-Q-GGV-VLRQA-RR
+>smart|BROMO-uniprot|O95696|BRD1_HUMAN/560-668  Bromodomain-containing protein 1 [Homo sapiens]
+MELRLT----PLTVLLRSVL---DQL------------------------------Q---
+-----------------------------------------------------------D
+K-DP-A----RIFA-----------QPVS------L--K--E------------------
+-------V----------------PD---------------YLDHIKHPMDFATMRKRLE
+AQ---GYKNLHEFEEDFDLIIDNCMKYNAR-D-----------------TVF----YRAA
+VRLRD-Q-GGV-VLRQA-RR
+>smart|BROMO-uniprot|P21675-12|P21675-12/1399-1507  Isoform N-TAF1 of Transcription initiation factor TFIID subunit 1 [Homo sapiens]
+RTDPMV----TLSSILESII---NDM------------------------------R---
+-----------------------------------------------------------D
+L-PN-T----YPFH-----------TPVN------A--K--V------------------
+-------V----------------KD---------------YYKIITRPMDLQTLRENVR
+KR---LYPSREEFREHLELIVKNSATYNGP-K-----------------HSL----TQIS
+QSMLD-L-CDE-KLKEK-ED
+>smart|BROMO-uniprot|P21675-12|P21675-12/1521-1630  Isoform N-TAF1 of Transcription initiation factor TFIID subunit 1 [Homo sapiens]
+DDDDQV----AFSFILDNIV---TQK------------------------------MM--
+-----------------------------------------------------------A
+V-PD-S----WPFH-----------HPVN------K--K--F------------------
+-------V----------------PD---------------YYKVIVNPMDLETIRKNIS
+KH---KYQSRESFLDDVNLILANSVKYNGP-E-----------------SQY----TKTA
+QEIVN-V-CYQ-TLTEY-DE
+>smart|BROMO-uniprot|P21675-4|P21675-4/1378-1486  Isoform 4 of Transcription initiation factor TFIID subunit 1 [Homo sapiens]
+RTDPMV----TLSSILESII---NDM------------------------------R---
+-----------------------------------------------------------D
+L-PN-T----YPFH-----------TPVN------A--K--V------------------
+-------V----------------KD---------------YYKIITRPMDLQTLRENVR
+KR---LYPSREEFREHLELIVKNSATYNGP-K-----------------HSL----TQIS
+QSMLD-L-CDE-KLKEK-ED
+>smart|BROMO-uniprot|P21675-4|P21675-4/1500-1609  Isoform 4 of Transcription initiation factor TFIID subunit 1 [Homo sapiens]
+DDDDQV----AFSFILDNIV---TQK------------------------------MM--
+-----------------------------------------------------------A
+V-PD-S----WPFH-----------HPVN------K--K--F------------------
+-------V----------------PD---------------YYKVIVNPMDLETIRKNIS
+KH---KYQSRESFLDDVNLILANSVKYNGP-E-----------------SQY----TKTA
+QEIVN-V-CYQ-TLTEY-DE
+>smart|BROMO-uniprot|P21675|TAF1_HUMAN/1378-1486  Transcription initiation factor TFIID subunit 1 [Homo sapiens]
+RTDPMV----TLSSILESII---NDM------------------------------R---
+-----------------------------------------------------------D
+L-PN-T----YPFH-----------TPVN------A--K--V------------------
+-------V----------------KD---------------YYKIITRPMDLQTLRENVR
+KR---LYPSREEFREHLELIVKNSATYNGP-K-----------------HSL----TQIS
+QSMLD-L-CDE-KLKEK-ED
+>smart|BROMO-uniprot|P21675|TAF1_HUMAN/1500-1609  Transcription initiation factor TFIID subunit 1 [Homo sapiens]
+DDDDQV----AFSFILDNIV---TQK------------------------------MM--
+-----------------------------------------------------------A
+V-PD-S----WPFH-----------HPVN------K--K--F------------------
+-------V----------------PD---------------YYKVIVNPMDLETIRKNIS
+KH---KYQSRESFLDDVNLILANSVKYNGP-E-----------------SQY----TKTA
+QEIVN-V-CYQ-TLTEY-DE
+>smart|BROMO-uniprot|P23497-4|P23497-4/772-873  Isoform Sp100-C of Nuclear autoantigen Sp-100 [Homo sapiens]
+LPEEQL----KCEFLLLKVY---CDS----------------------------------
+------------------------------------------------------------
+---K-S----CFFA-----------SEPY------Y--N---------------------
+------------------------RE---------------GSQGPQKPMWLNKVKTSLN
+EQ---MYTRVEGFVQDMRLIFHNHKEFYRE-------------------DKF----TRLG
+IQVQD-I-FEK-NFRNI-FA
+>smart|BROMO-uniprot|P25440-2|P25440-2/346-455  Isoform 2 of Bromodomain-containing protein 2 [Homo sapiens]
+LSEQLK----HCNGILKELL---SK-------------------------------K---
+-----------------------------------------------------------H
+A-AY-A----WPFY-----------KPVD------A--SALG------------------
+-------L----------------HD---------------YHDIIKHPMDLSTVKRKME
+NR---DYRDAQEFAADVRLMFSNCYKYNPP-D-----------------HDV----VAMA
+RKLQD-V-FEF-RYAKM-PD
+>smart|BROMO-uniprot|P25440-2|P25440-2/72-182  Isoform 2 of Bromodomain-containing protein 2 [Homo sapiens]
+PGRVTN----QLQYLHKVVM---KAL------------------------------W---
+-----------------------------------------------------------K
+H-QF-A----WPFR-----------QPVD------AVKL--G------------------
+-------L----------------PD---------------YHKIIKQPMDMGTIKRRLE
+NN---YYWAASECMQDFNTMFTNCYIYNKP-T-----------------DDI----VLMA
+QTLEK-I-FLQ-KVASM-PQ
+>smart|BROMO-uniprot|P51531|SMCA2_HUMAN/1380-1508  Probable global transcription activator SNF2L2 [Homo sapiens]
+PPKLTK----QMNAIIDTVI---NYK-----DRCNVEKVPSNSQLEIEGN-----SS---
+-----------------------------------------------------------G
+R-QL-S----EVFI-----------QLPS------R--K--E------------------
+-------L----------------PE---------------YYELIRKPVDFKKIKERIR
+NH---KYRSLGDLEKDVMLLCHNAQTFNLE-G-----------------SQI----YEDS
+IVLQS-V-FKS-ARQKI-AK
+>smart|BROMO-uniprot|P55201-2|P55201-2/626-740  Isoform 2 of Peregrin [Homo sapiens]
+MEMQLT----PFLILLRKTL---EQL------------------------------Q---
+-----------------------------------------------------------E
+K-DT-G----NIFS-----------EPVPLSEVTEL--D--E------------------
+-------V----------------PD---------------YLDHIKKPMDFFTMKQNLE
+AY---RYLNFDDFEEDFNLIVSNCLKYNAK-D-----------------TIF----YRAA
+VRLRE-Q-GGA-VLRQA-RR
+>smart|BROMO-uniprot|Q03164-2|Q03164-2/1595-1729  Isoform 2 of Histone-lysine N-methyltransferase 2A [Homo sapiens]
+RLALEK----ELQISLKQVL---TAL------------------------------L---
+-----------------------------------------------------------N
+S-RT-T----SHLLRYRQAAKPPDLNPET------E--E--S------------------
+-------I----------------PSRSSPEGPDPPVLTEVSKQDDQQPLDLEGVKRKMD
+QG---NYTSVLEFSDDIVKIIQAAINSDGG-Q-----------------PEI----KKAN
+SMVKS-F-FIR-QMERV-FP
+>smart|BROMO-uniprot|Q03164-3|Q03164-3/1636-1770  Isoform 3 of Histone-lysine N-methyltransferase 2A [Homo sapiens]
+RLALEK----ELQISLKQVL---TAL------------------------------L---
+-----------------------------------------------------------N
+S-RT-T----SHLLRYRQAAKPPDLNPET------E--E--S------------------
+-------I----------------PSRSSPEGPDPPVLTEVSKQDDQQPLDLEGVKRKMD
+QG---NYTSVLEFSDDIVKIIQAAINSDGG-Q-----------------PEI----KKAN
+SMVKS-F-FIR-QMERV-FP
+>smart|BROMO-uniprot|Q09472|EP300_HUMAN/1048-1158  Histone acetyltransferase p300 [Homo sapiens]
+IFKPE-----ELRQALMPTL---EAL------------------------------Y---
+-----------------------------------------------------------R
+QDPE-S----LPFR-----------QPVD------PQLL--G------------------
+-------I----------------PD---------------YFDIVKSPMDLSTIKRKLD
+TG---QYQEPWQYVDDIWLMFNNAWLYNRK-T-----------------SRV----YKYC
+SKLSE-V-FEQ-EIDPV-MQ
+>smart|BROMO-uniprot|Q12830-2|Q12830-2/2799-2907  Isoform 2 of Nucleosome-remodeling factor subunit BPTF [Homo sapiens]
+LTPLTE----KDYEGLKRVL---RSL------------------------------Q---
+-----------------------------------------------------------A
+H-KM-A----WPFL-----------EPVD------P--N--D------------------
+-------A----------------PD---------------YYGVIKEPMDLATMEERVQ
+RR---YYEKLTEFVADMTKIFDNCRYYNPS-D-----------------SPF----YQCA
+EVLES-F-FVQ-KLKGF-KA
+>smart|BROMO-uniprot|Q12830|BPTF_HUMAN/2925-3033  Nucleosome-remodeling factor subunit BPTF [Homo sapiens]
+LTPLTE----KDYEGLKRVL---RSL------------------------------Q---
+-----------------------------------------------------------A
+H-KM-A----WPFL-----------EPVD------P--N--D------------------
+-------A----------------PD---------------YYGVIKEPMDLATMEERVQ
+RR---YYEKLTEFVADMTKIFDNCRYYNPS-D-----------------SPF----YQCA
+EVLES-F-FVQ-KLKGF-KA
+>smart|BROMO-uniprot|Q13263-2|Q13263-2/615-719  Isoform 2 of Transcription intermediary factor 1-beta [Homo sapiens]
+SPANQR----KCERVLLALF---C------------------------------------
+------------------------------------------------------------
+H-EP-C----RPLH-----------QLA-------T--D--S------------------
+-------T-----------------F---------------SLDQPGGTLDLTLIRARLQ
+EKLSPPYSSPQEFAQDVGRMFKQFNKLTED-K-----------------ADV-----QSI
+IGLQR-F-FET-RMNEA-FG
+>smart|BROMO-uniprot|Q13263|TIF1B_HUMAN/697-801  Transcription intermediary factor 1-beta [Homo sapiens]
+SPANQR----KCERVLLALF---C------------------------------------
+------------------------------------------------------------
+H-EP-C----RPLH-----------QLA-------T--D--S------------------
+-------T-----------------F---------------SLDQPGGTLDLTLIRARLQ
+EKLSPPYSSPQEFAQDVGRMFKQFNKLTED-K-----------------ADV-----QSI
+IGLQR-F-FET-RMNEA-FG
+>smart|BROMO-uniprot|Q13342-3|Q13342-3/645-748  Isoform Sp140 of Nuclear body protein SP140 [Homo sapiens]
+CPEEQL----KCEFLLLKVY---CCS----------------------------------
+------------------------------------------------------------
+---E-S----SFFA-----------KIPY------Y--Y--Y------------------
+-------I----------------RE---------------ACQGLKEPMWLDKIKKRLN
+EH---GYPQVEGFVQDMRLIFQNHRASYKY-------------------KDF----GQMG
+FRLEA-E-FEK-NFKEV-FA
+>smart|BROMO-uniprot|Q13342-4|Q13342-4/241-344  Isoform 4 of Nuclear body protein SP140 [Homo sapiens]
+CPEEQL----KCEFLLLKVY---CCS----------------------------------
+------------------------------------------------------------
+---E-S----SFFA-----------KIPY------Y--Y--Y------------------
+-------I----------------RE---------------ACQGLKEPMWLDKIKKRLN
+EH---GYPQVEGFVQDMRLIFQNHRASYKY-------------------KDF----GQMG
+FRLEA-E-FEK-NFKEV-FA
+>smart|BROMO-uniprot|Q13342|SP140_HUMAN/756-859  Nuclear body protein SP140 [Homo sapiens]
+CPEEQL----KCEFLLLKVY---CCS----------------------------------
+------------------------------------------------------------
+---E-S----SFFA-----------KIPY------Y--Y--Y------------------
+-------I----------------RE---------------ACQGLKEPMWLDKIKKRLN
+EH---GYPQVEGFVQDMRLIFQNHRASYKY-------------------KDF----GQMG
+FRLEA-E-FEK-NFKEV-FA
+>smart|BROMO-uniprot|Q15059|BRD3_HUMAN/308-417  Bromodomain-containing protein 3 [Homo sapiens]
+LSEHLR----YCDSILREML---SK-------------------------------K---
+-----------------------------------------------------------H
+A-AY-A----WPFY-----------KPVD------A--EALE------------------
+-------L----------------HD---------------YHDIIKHPMDLSTVKRKMD
+GR---EYPDAQGFAADVRLMFSNCYKYNPP-D-----------------HEV----VAMA
+RKLQD-V-FEM-RFAKM-PD
+>smart|BROMO-uniprot|Q15059|BRD3_HUMAN/32-142  Bromodomain-containing protein 3 [Homo sapiens]
+PGRKTN----QLQYMQNVVV---KTL------------------------------W---
+-----------------------------------------------------------K
+H-QF-A----WPFY-----------QPVD------AIKL--N------------------
+-------L----------------PD---------------YHKIIKNPMDMGTIKKRLE
+NN---YYWSASECMQDFNTMFTNCYIYNKP-T-----------------DDI----VLMA
+QALEK-I-FLQ-KVAQM-PQ
+>smart|BROMO-uniprot|Q15326-5|Q15326-5/78-172  Isoform 5 of Zinc finger MYND domain-containing protein 11 [Homo sapiens]
+AGIEQE----GYWLPGDEI-----------------------------------------
+------------------------------------------------------------
+----------SIKK-----------KNTN------K--Q--E------------------
+-------M----------------GT---------------YLRFIVSRM----KERKVN
+EG---KYRSYEEFKADAQLLLHNTVIFYGA-D-----------------SEQ----ADIA
+RMLYK-D-TCH-ELDEL-QL
+>smart|BROMO-uniprot|Q15326|ZMY11_HUMAN/151-257  Zinc finger MYND domain-containing protein 11 [Homo sapiens]
+KNTNKQ----EMGTYLRFIV---S-------------------------------RM---
+-----------------------------------------------------------K
+E-R--A----IDLN-----------KKGK------D--N--K------------------
+-------H----------------PM---------------YRRLVHSAVDVPTIQEKVN
+EG---KYRSYEEFKADAQLLLHNTVIFYGA-D-----------------SEQ----ADIA
+RMLYK-D-TCH-ELDEL-QL
+>smart|BROMO-uniprot|Q17RB6|Q17RB6_HUMAN/587-695  BRPF3 protein [Homo sapiens]
+MELELM----PFNVLLRTTL---DLL------------------------------Q---
+-----------------------------------------------------------E
+K-DP-A----HIFA-----------EPVN------L--S--E------------------
+-------V----------------PD---------------YLEFISKPMDFSTMRRKLE
+SH---LYRTLEEFEEDFNLIVTNCMKYNAK-D-----------------TIF----HRAA
+VRLRD-L-GGA-ILRHA-RR
+>smart|BROMO-uniprot|Q2HXV1|Q2HXV1_HUMAN/142-249  Protein kinase C-binding protein 1 [Homo sapiens]
+TMLTIE----QLSYLLKFAI---Q-------------------------------KM---
+-----------------------------------------------------------K
+Q-PG-T----DAFQ-----------KPVP------L--E--Q------------------
+-------H----------------PD---------------YAEYIFHPMDLCTLEKNAK
+KK---MYGCTEAFLADAKWILHNCIIYNGG-N-----------------HKL----TQIA
+KVVIK-I-CEH-EMNEI-EV
+>smart|BROMO-uniprot|Q2HXV3|Q2HXV3_HUMAN/142-249  Protein kinase C-binding protein 1 [Homo sapiens]
+TMLTIE----QLSYLLKFAI---Q-------------------------------KM---
+-----------------------------------------------------------K
+Q-PG-T----DAFQ-----------KPVP------L--E--Q------------------
+-------H----------------PD---------------YAEYIFHPMDLCTLEKNAK
+KK---MYGCTEAFLADAKWILHNCIIYNGG-N-----------------HKL----TQIA
+KVVIK-I-CEH-EMNEI-EV
+>smart|BROMO-uniprot|Q2HXV5|Q2HXV5_HUMAN/167-274  RACK7 isoform g [Homo sapiens]
+TMLTIE----QLSYLLKFAI---Q-------------------------------KM---
+-----------------------------------------------------------K
+Q-PG-T----DAFQ-----------KPVP------L--E--Q------------------
+-------H----------------PD---------------YAEYIFHPMDLCTLEKNAK
+KK---MYGCTEAFLADAKWILHNCIIYNGG-N-----------------HKL----TQIA
+KVVIK-I-CEH-EVIKL-VG
+>smart|BROMO-uniprot|Q58F21-3|Q58F21-3/25-135  Isoform 3 of Bromodomain testis-specific protein [Homo sapiens]
+NGRLTN----QLQYLQKVVL---KDL------------------------------W---
+-----------------------------------------------------------K
+H-SF-S----WPFQ-----------RPVD------AVKL--Q------------------
+-------L----------------PD---------------YYTIIKNPMDLNTIKKRLE
+NK---YYAKASECIEDFNTMFSNCYLYNKP-G-----------------DDI----VLMA
+QALEK-L-FMQ-KLSQM-PQ
+>smart|BROMO-uniprot|Q58F21-3|Q58F21-3/273-382  Isoform 3 of Bromodomain testis-specific protein [Homo sapiens]
+VTEQLR----HCSEILKEML---AK-------------------------------K---
+-----------------------------------------------------------H
+F-SY-A----WPFY-----------NPVD------V--NALG------------------
+-------L----------------HN---------------YYDVVKNPMDLGTIKEKMD
+NQ---EYKDAYKFAADVRLMFMNCYKYNPP-D-----------------HEV----VTMA
+RMLQD-V-FET-HFSKI-PI
+>smart|BROMO-uniprot|Q58F21-4|Q58F21-4/223-332  Isoform 4 of Bromodomain testis-specific protein [Homo sapiens]
+VTEQLR----HCSEILKEML---AK-------------------------------K---
+-----------------------------------------------------------H
+F-SY-A----WPFY-----------NPVD------V--NALG------------------
+-------L----------------HN---------------YYDVVKNPMDLGTIKEKMD
+NQ---EYKDAYKFAADVRLMFMNCYKYNPP-D-----------------HEV----VTMA
+RMLQD-V-FET-HFSKI-PI
+>smart|BROMO-uniprot|Q59G54|Q59G54_HUMAN/1033-1141  Bromodomain adjacent to zinc finger domain, 1A isoform b variant (Fragment) [Homo sapiens]
+GRQGGV----HELSAFEQLV---VEL------------------------------V---
+-----------------------------------------------------------R
+H-DD-S----WPFL-----------KLVS------K--I--Q------------------
+-------V----------------PD---------------YYDIIKKPIALNIIREKVN
+KC---EYKLASEFIDDIELMFSNCFEYNPR-N-----------------TSE----AKAG
+TRLQA-F-FFIFRLKSL--D
+>smart|BROMO-uniprot|Q59G93|Q59G93_HUMAN/154-262  Bromodomain containing protein 1 variant (Fragment) [Homo sapiens]
+MELRLT----PLTVLLRSVL---DQL------------------------------Q---
+-----------------------------------------------------------D
+K-DP-A----RIFA-----------QPVS------L--K--E------------------
+-------V----------------PD---------------YLDHIKHPMDFATMRKRLE
+AQ---GYKNLHEFEEDFDLIIDNCMKYNAR-D-----------------TVF----YRAA
+VRLRD-Q-GGV-VLRQA-RR
+>smart|BROMO-uniprot|Q5HYC2-2|Q5HYC2-2/75-198  Isoform 2 of Uncharacterized protein KIAA2026 [Homo sapiens]
+LTYELQ----QGYRILGEFL---QEK------------------------------H---
+------------------------------------------------------------
+R-GL-T----APFL-----------QPLG------G--V--A------------------
+-------TAEEEVAEGPRSGGRGGRA---------------FPQQPGQGMCLLQMEEKFA
+SG---QYGGITEFVADFRLMLETCYRLHGV-D-----------------HWI----SKQG
+QKLEM-M-LEQ-KLALL-SR
+>smart|BROMO-uniprot|Q5HYC2|K2026_HUMAN/75-198  Uncharacterized protein KIAA2026 [Homo sapiens]
+LTYELQ----QGYRILGEFL---QEK------------------------------H---
+------------------------------------------------------------
+R-GL-T----APFL-----------QPLG------G--V--A------------------
+-------TAEEEVAEGPRSGGRGGRA---------------FPQQPGQGMCLLQMEEKFA
+SG---QYGGITEFVADFRLMLETCYRLHGV-D-----------------HWI----SKQG
+QKLEM-M-LEQ-KLALL-SR
+>smart|BROMO-uniprot|Q5JV90|Q5JV90_HUMAN/141-248  Putative uncharacterized protein DKFZp564P1772 [Homo sapiens]
+TMLTIE----QSSYLLKFAI---Q-------------------------------KM---
+-----------------------------------------------------------K
+Q-PG-T----DAFQ-----------KPVP------L--E--Q------------------
+-------H----------------PD---------------YAEYIFHPMDLCTLEKNAK
+KK---MYGCTEAFLADAKWILHNCIIYNGG-N-----------------HKL----TQIA
+KVVIK-I-CEH-EMNEI-EV
+>smart|BROMO-uniprot|Q6IRX1|Q6IRX1_HUMAN/150-242  Uncharacterized protein (Fragment) [Homo sapiens]
+TLLIQ----ELIHNLFVSVM------------------------------------S---
+------------------------------------------------------------
+H-QD-D--EGRCYS-----------DSLA------E--I--P------------------
+-------A----------------VD---------------PNFPNKPPLTFDIIRKNVE
+NN---RYRRLDLFQEHMFEVLERVRRMNRY---------------------V----FKAI
+FILR---------------I
+>smart|BROMO-uniprot|Q6IRX1|Q6IRX1_HUMAN/26-140  Uncharacterized protein (Fragment) [Homo sapiens]
+KSKYMTPMQQKLNEVYEAVKNYTD-------------------------------KR---
+-----------------------------------------------------------G
+R-RL-S----AIFL-----------RLPS------R--S--E------------------
+-------L----------------PD---------------YYLTIKKPMDMEKIRSHMM
+AN---KYQDIDSMVEDFVMMFNNACTYNEP-E-----------------SLI----YKDA
+LVLHK-V-LLE-TRRDL-EG
+>smart|BROMO-uniprot|Q6PL18|ATAD2_HUMAN/982-1094  ATPase family AAA domain-containing protein 2 [Homo sapiens]
+EEDTFR----ELRIFLRNVT---HRL------------------------------A---
+-----------------------------------------------------------I
+D-KR-F----RVFT-----------KPVD------P--D--E------------------
+-------V----------------PD---------------YVTVIKQPMDLSSVISKID
+LH---KYLTVKDYLRDIDLICSNALEYNPD-R-----------------DPGDRLIRHRA
+CALRD-T-AYA-IIKEE-LD
+>smart|BROMO-uniprot|Q6RI45|BRWD3_HUMAN/1140-1247  Bromodomain and WD repeat-containing protein 3 [Homo sapiens]
+AHS----RDEECERVIQGIN---H-------------------------------LL---
+-----------------------------------------------------------S
+L-DF-A----SPFA-----------VPVD------L--S--A------------------
+-------Y----------------PL---------------YCTVVAYPTDLNTIRRRLE
+NR---FYRRISALMWEVRYIEHNARTFNEP-D-----------------SPI----VKAA
+KIVTD-V-LLR-FIGDQS-C
+>smart|BROMO-uniprot|Q6RI45|BRWD3_HUMAN/1302-1432  Bromodomain and WD repeat-containing protein 3 [Homo sapiens]
+PDAWKK----QCKELLS-------LI------------------------------Y---
+-----------------------------------------------------------E
+R-ED-S----EPFR-----------QPAD------L--L--SYPGHQEQEGESSESVVPE
+RQQDSSLS----------------ED---------------YQDVIDTPVDFSTVKETLE
+AG---NYGSPLEFYKDVRQIFNNSKAYTSNKK-----------------SRI----YSMM
+LRLSA-L-FES-HIKNI-IS
+>smart|BROMO-uniprot|Q86U86-3|Q86U86-3/175-289  Isoform 3 of Protein polybromo-1 [Homo sapiens]
+EGSSPA----YLKEILEQLL---EAI------------------------------V---
+------------------------VATNPS-----------------------------G
+R-LI-S----ELFQ-----------KLPS------K--V--Q------------------
+-------Y----------------PD---------------YYAIIKEPIDLKTIAQRIQ
+NG---SYKSIHAMAKDIDLLAKNAKTYNEP-G-----------------SQV----FKDA
+NSIKK-I-FYM-KKAEI-EH
+>smart|BROMO-uniprot|Q86U86-3|Q86U86-3/347-457  Isoform 3 of Protein polybromo-1 [Homo sapiens]
+FMDVSN----PFYQLYDTVR---SCR-----N-----------------------NQ---
+-----------------------------------------------------------G
+Q-LI-A----EPFY-----------HLPS------K--K--K------------------
+-------Y----------------PD---------------YYQQIKMPISLQQIRTKLK
+NQ---EYETLDHLECDLNLMFENAKRYNVP-N-----------------SAI----YKRV
+LKLQQ-V-MQA-KKKEL-AR
+>smart|BROMO-uniprot|Q86U86-3|Q86U86-3/43-153  Isoform 3 of Protein polybromo-1 [Homo sapiens]
+TVDPIA----VCHELYNTIR---DYK-----D-----------------------EQ---
+-----------------------------------------------------------G
+R-LL-C----ELFI-----------RAPK------R--R--N------------------
+-------Q----------------PD---------------YYEVVSQPIDLMKIQQKLK
+ME---EYDDVNLLTADFQLLFNNAKSYYKP-D-----------------SPE----YKAA
+CKLWD-L-YLR-TRNEF-VQ
+>smart|BROMO-uniprot|Q86U86-3|Q86U86-3/484-595  Isoform 3 of Protein polybromo-1 [Homo sapiens]
+KNIRKQ----RMKILFNVVL---EAR------------------------------EPGS
+-----------------------------------------------------------G
+R-RL-C----DLFM-----------VKPS------K--K--D------------------
+-------Y----------------PD---------------YYKIILEPMDLKIIEHNIR
+ND---KYAGEEGMIEDMKLMFRNARHYNEE-G-----------------SQV----YNDA
+HILEK-L-LKE-KRKEL-GP
+>smart|BROMO-uniprot|Q86U86-3|Q86U86-3/619-733  Isoform 3 of Protein polybromo-1 [Homo sapiens]
+KSKYMTPMQQKLNEVYEAVKNYTD-------------------------------KR---
+-----------------------------------------------------------G
+R-RL-S----AIFL-----------RLPS------R--S--E------------------
+-------L----------------PD---------------YYLTIKKPMDMEKIRSHMM
+AN---KYQDIDSMVEDFVMMFNNACTYNEP-E-----------------SLI----YKDA
+LVLHK-V-LLE-TRRDL-EG
+>smart|BROMO-uniprot|Q86U86-3|Q86U86-3/743-849  Isoform 3 of Protein polybromo-1 [Homo sapiens]
+TLLIQ----ELIHNLFVSVM------------------------------------S---
+------------------------------------------------------------
+H-QD-D--EGRCYS-----------DSLA------E--I--P------------------
+-------A----------------VD---------------PNFPNKPPLTFDIIRKNVE
+NN---RYRRLDLFQEHMFEVLERARRMNRT-D-----------------SEI----YEDA
+VELQQ-F-FIK-IRDE-LCK
+>smart|BROMO-uniprot|Q86U86-4|Q86U86-4/175-289  Isoform 4 of Protein polybromo-1 [Homo sapiens]
+EGSSPA----YLKEILEQLL---EAI------------------------------V---
+------------------------VATNPS-----------------------------G
+R-LI-S----ELFQ-----------KLPS------K--V--Q------------------
+-------Y----------------PD---------------YYAIIKEPIDLKTIAQRIQ
+NG---SYKSIHAMAKDIDLLAKNAKTYNEP-G-----------------SQV----FKDA
+NSIKK-I-FYM-KKAEI-EH
+>smart|BROMO-uniprot|Q86U86-4|Q86U86-4/379-489  Isoform 4 of Protein polybromo-1 [Homo sapiens]
+FMDVSN----PFYQLYDTVR---SCR-----N-----------------------NQ---
+-----------------------------------------------------------G
+Q-LI-A----EPFY-----------HLPS------K--K--K------------------
+-------Y----------------PD---------------YYQQIKMPISLQQIRTKLK
+NQ---EYETLDHLECDLNLMFENAKRYNVP-N-----------------SAI----YKRV
+LKLQQ-V-MQA-KKKEL-AR
+>smart|BROMO-uniprot|Q86U86-4|Q86U86-4/43-153  Isoform 4 of Protein polybromo-1 [Homo sapiens]
+TVDPIA----VCHELYNTIR---DYK-----D-----------------------EQ---
+-----------------------------------------------------------G
+R-LL-C----ELFI-----------RAPK------R--R--N------------------
+-------Q----------------PD---------------YYEVVSQPIDLMKIQQKLK
+ME---EYDDVNLLTADFQLLFNNAKSYYKP-D-----------------SPE----YKAA
+CKLWD-L-YLR-TRNEF-VQ
+>smart|BROMO-uniprot|Q86U86-4|Q86U86-4/516-627  Isoform 4 of Protein polybromo-1 [Homo sapiens]
+KNIRKQ----RMKILFNVVL---EAR------------------------------EPGS
+-----------------------------------------------------------G
+R-RL-C----DLFM-----------VKPS------K--K--D------------------
+-------Y----------------PD---------------YYKIILEPMDLKIIEHNIR
+ND---KYAGEEGMIEDMKLMFRNARHYNEE-G-----------------SQV----YNDA
+HILEK-L-LKE-KRKEL-GP
+>smart|BROMO-uniprot|Q86U86-4|Q86U86-4/651-765  Isoform 4 of Protein polybromo-1 [Homo sapiens]
+KSKYMTPMQQKLNEVYEAVKNYTD-------------------------------KR---
+-----------------------------------------------------------G
+R-RL-S----AIFL-----------RLPS------R--S--E------------------
+-------L----------------PD---------------YYLTIKKPMDMEKIRSHMM
+AN---KYQDIDSMVEDFVMMFNNACTYNEP-E-----------------SLI----YKDA
+LVLHK-V-LLE-TRRDL-EG
+>smart|BROMO-uniprot|Q86U86-4|Q86U86-4/775-881  Isoform 4 of Protein polybromo-1 [Homo sapiens]
+TLLIQ----ELIHNLFVSVM------------------------------------S---
+------------------------------------------------------------
+H-QD-D--EGRCYS-----------DSLA------E--I--P------------------
+-------A----------------VD---------------PNFPNKPPLTFDIIRKNVE
+NN---RYRRLDLFQEHMFEVLERARRMNRT-D-----------------SEI----YEDA
+VELQQ-F-FIK-IRDE-LCK
+>smart|BROMO-uniprot|Q86U86-7|Q86U86-7/175-289  Isoform 7 of Protein polybromo-1 [Homo sapiens]
+EGSSPA----YLKEILEQLL---EAI------------------------------V---
+------------------------VATNPS-----------------------------G
+R-LI-S----ELFQ-----------KLPS------K--V--Q------------------
+-------Y----------------PD---------------YYAIIKEPIDLKTIAQRIQ
+NG---SYKSIHAMAKDIDLLAKNAKTYNEP-G-----------------SQV----FKDA
+NSIKK-I-FYM-KKAEI-EH
+>smart|BROMO-uniprot|Q86U86-7|Q86U86-7/379-489  Isoform 7 of Protein polybromo-1 [Homo sapiens]
+FMDVSN----PFYQLYDTVR---SCR-----N-----------------------NQ---
+-----------------------------------------------------------G
+Q-LI-A----EPFY-----------HLPS------K--K--K------------------
+-------Y----------------PD---------------YYQQIKMPISLQQIRTKLK
+NQ---EYETLDHLECDLNLMFENAKRYNVP-N-----------------SAI----YKRV
+LKLQQ-V-MQA-KKKEL-AR
+>smart|BROMO-uniprot|Q86U86-7|Q86U86-7/43-153  Isoform 7 of Protein polybromo-1 [Homo sapiens]
+TVDPIA----VCHELYNTIR---DYK-----D-----------------------EQ---
+-----------------------------------------------------------G
+R-LL-C----ELFI-----------RAPK------R--R--N------------------
+-------Q----------------PD---------------YYEVVSQPIDLMKIQQKLK
+ME---EYDDVNLLTADFQLLFNNAKSYYKP-D-----------------SPE----YKAA
+CKLWD-L-YLR-TRNEF-VQ
+>smart|BROMO-uniprot|Q86U86-7|Q86U86-7/531-642  Isoform 7 of Protein polybromo-1 [Homo sapiens]
+KNIRKQ----RMKILFNVVL---EAR------------------------------EPGS
+-----------------------------------------------------------G
+R-RL-C----DLFM-----------VKPS------K--K--D------------------
+-------Y----------------PD---------------YYKIILEPMDLKIIEHNIR
+ND---KYAGEEGMIEDMKLMFRNARHYNEE-G-----------------SQV----YNDA
+HILEK-L-LKE-KRKEL-GP
+>smart|BROMO-uniprot|Q86U86-7|Q86U86-7/666-780  Isoform 7 of Protein polybromo-1 [Homo sapiens]
+KSKYMTPMQQKLNEVYEAVKNYTD-------------------------------KR---
+-----------------------------------------------------------G
+R-RL-S----AIFL-----------RLPS------R--S--E------------------
+-------L----------------PD---------------YYLTIKKPMDMEKIRSHMM
+AN---KYQDIDSMVEDFVMMFNNACTYNEP-E-----------------SLI----YKDA
+LVLHK-V-LLE-TRRDL-EG
+>smart|BROMO-uniprot|Q86U86-7|Q86U86-7/790-896  Isoform 7 of Protein polybromo-1 [Homo sapiens]
+TLLIQ----ELIHNLFVSVM------------------------------------S---
+------------------------------------------------------------
+H-QD-D--EGRCYS-----------DSLA------E--I--P------------------
+-------A----------------VD---------------PNFPNKPPLTFDIIRKNVE
+NN---RYRRLDLFQEHMFEVLERARRMNRT-D-----------------SEI----YEDA
+VELQQ-F-FIK-IRDE-LCK
+>smart|BROMO-uniprot|Q86U86-8|Q86U86-8/175-289  Isoform 8 of Protein polybromo-1 [Homo sapiens]
+EGSSPA----YLKEILEQLL---EAI------------------------------V---
+------------------------VATNPS-----------------------------G
+R-LI-S----ELFQ-----------KLPS------K--V--Q------------------
+-------Y----------------PD---------------YYAIIKEPIDLKTIAQRIQ
+NG---SYKSIHAMAKDIDLLAKNAKTYNEP-G-----------------SQV----FKDA
+NSIKK-I-FYM-KKAEI-EH
+>smart|BROMO-uniprot|Q86U86-8|Q86U86-8/379-489  Isoform 8 of Protein polybromo-1 [Homo sapiens]
+FMDVSN----PFYQLYDTVR---SCR-----N-----------------------NQ---
+-----------------------------------------------------------G
+Q-LI-A----EPFY-----------HLPS------K--K--K------------------
+-------Y----------------PD---------------YYQQIKMPISLQQIRTKLK
+NQ---EYETLDHLECDLNLMFENAKRYNVP-N-----------------SAI----YKRV
+LKLQQ-V-MQA-KKKEL-AR
+>smart|BROMO-uniprot|Q86U86-8|Q86U86-8/43-153  Isoform 8 of Protein polybromo-1 [Homo sapiens]
+TVDPIA----VCHELYNTIR---DYK-----D-----------------------EQ---
+-----------------------------------------------------------G
+R-LL-C----ELFI-----------RAPK------R--R--N------------------
+-------Q----------------PD---------------YYEVVSQPIDLMKIQQKLK
+ME---EYDDVNLLTADFQLLFNNAKSYYKP-D-----------------SPE----YKAA
+CKLWD-L-YLR-TRNEF-VQ
+>smart|BROMO-uniprot|Q86U86-8|Q86U86-8/531-642  Isoform 8 of Protein polybromo-1 [Homo sapiens]
+KNIRKQ----RMKILFNVVL---EAR------------------------------EPGS
+-----------------------------------------------------------G
+R-RL-C----DLFM-----------VKPS------K--K--D------------------
+-------Y----------------PD---------------YYKIILEPMDLKIIEHNIR
+ND---KYAGEEGMIEDMKLMFRNARHYNEE-G-----------------SQV----YNDA
+HILEK-L-LKE-KRKEL-GP
+>smart|BROMO-uniprot|Q86U86-8|Q86U86-8/666-780  Isoform 8 of Protein polybromo-1 [Homo sapiens]
+KSKYMTPMQQKLNEVYEAVKNYTD-------------------------------KR---
+-----------------------------------------------------------G
+R-RL-S----AIFL-----------RLPS------R--S--E------------------
+-------L----------------PD---------------YYLTIKKPMDMEKIRSHMM
+AN---KYQDIDSMVEDFVMMFNNACTYNEP-E-----------------SLI----YKDA
+LVLHK-V-LLE-TRRDL-EG
+>smart|BROMO-uniprot|Q86U86-8|Q86U86-8/790-896  Isoform 8 of Protein polybromo-1 [Homo sapiens]
+TLLIQ----ELIHNLFVSVM------------------------------------S---
+------------------------------------------------------------
+H-QD-D--EGRCYS-----------DSLA------E--I--P------------------
+-------A----------------VD---------------PNFPNKPPLTFDIIRKNVE
+NN---RYRRLDLFQEHMFEVLERARRMNRT-D-----------------SEI----YEDA
+VELQQ-F-FIK-IRDE-LCK
+>smart|BROMO-uniprot|Q86U86-9|Q86U86-9/175-289  Isoform 9 of Protein polybromo-1 [Homo sapiens]
+EGSSPA----YLKEILEQLL---EAI------------------------------V---
+------------------------VATNPS-----------------------------G
+R-LI-S----ELFQ-----------KLPS------K--V--Q------------------
+-------Y----------------PD---------------YYAIIKEPIDLKTIAQRIQ
+NG---SYKSIHAMAKDIDLLAKNAKTYNEP-G-----------------SQV----FKDA
+NSIKK-I-FYM-KKAEI-EH
+>smart|BROMO-uniprot|Q86U86-9|Q86U86-9/379-489  Isoform 9 of Protein polybromo-1 [Homo sapiens]
+FMDVSN----PFYQLYDTVR---SCR-----N-----------------------NQ---
+-----------------------------------------------------------G
+Q-LI-A----EPFY-----------HLPS------K--K--K------------------
+-------Y----------------PD---------------YYQQIKMPISLQQIRTKLK
+NQ---EYETLDHLECDLNLMFENAKRYNVP-N-----------------SAI----YKRV
+LKLQQ-V-MQA-KKKEL-AR
+>smart|BROMO-uniprot|Q86U86-9|Q86U86-9/43-153  Isoform 9 of Protein polybromo-1 [Homo sapiens]
+TVDPIA----VCHELYNTIR---DYK-----D-----------------------EQ---
+-----------------------------------------------------------G
+R-LL-C----ELFI-----------RAPK------R--R--N------------------
+-------Q----------------PD---------------YYEVVSQPIDLMKIQQKLK
+ME---EYDDVNLLTADFQLLFNNAKSYYKP-D-----------------SPE----YKAA
+CKLWD-L-YLR-TRNEF-VQ
+>smart|BROMO-uniprot|Q86U86-9|Q86U86-9/516-627  Isoform 9 of Protein polybromo-1 [Homo sapiens]
+KNIRKQ----RMKILFNVVL---EAR------------------------------EPGS
+-----------------------------------------------------------G
+R-RL-C----DLFM-----------VKPS------K--K--D------------------
+-------Y----------------PD---------------YYKIILEPMDLKIIEHNIR
+ND---KYAGEEGMIEDMKLMFRNARHYNEE-G-----------------SQV----YNDA
+HILEK-L-LKE-KRKEL-GP
+>smart|BROMO-uniprot|Q86U86-9|Q86U86-9/651-765  Isoform 9 of Protein polybromo-1 [Homo sapiens]
+KSKYMTPMQQKLNEVYEAVKNYTD-------------------------------KR---
+-----------------------------------------------------------G
+R-RL-S----AIFL-----------RLPS------R--S--E------------------
+-------L----------------PD---------------YYLTIKKPMDMEKIRSHMM
+AN---KYQDIDSMVEDFVMMFNNACTYNEP-E-----------------SLI----YKDA
+LVLHK-V-LLE-TRRDL-EG
+>smart|BROMO-uniprot|Q86U86-9|Q86U86-9/775-881  Isoform 9 of Protein polybromo-1 [Homo sapiens]
+TLLIQ----ELIHNLFVSVM------------------------------------S---
+------------------------------------------------------------
+H-QD-D--EGRCYS-----------DSLA------E--I--P------------------
+-------A----------------VD---------------PNFPNKPPLTFDIIRKNVE
+NN---RYRRLDLFQEHMFEVLERARRMNRT-D-----------------SEI----YEDA
+VELQQ-F-FIK-IRDE-LCK
+>smart|BROMO-uniprot|Q8IZX4|TAF1L_HUMAN/1397-1505  Transcription initiation factor TFIID subunit 1-like [Homo sapiens]
+RTDPMV----TLSSILESII---NDM------------------------------R---
+-----------------------------------------------------------D
+L-PN-T----HPFH-----------TPVN------A--K--V------------------
+-------V----------------KD---------------YYKIITRPMDLQTLRENVR
+KC---LYPSREEFREHLELIVKNSATYNGP-K-----------------HSL----TQIS
+QSMLD-L-CDE-KLKEK-ED
+>smart|BROMO-uniprot|Q8IZX4|TAF1L_HUMAN/1519-1628  Transcription initiation factor TFIID subunit 1-like [Homo sapiens]
+DDDDQV----AFSFILDNIV---TQK------------------------------MM--
+-----------------------------------------------------------A
+V-PD-S----WPFH-----------HPVN------K--K--F------------------
+-------V----------------PD---------------YYKMIVNPVDLETIRKNIS
+KH---KYQSRESFLDDVNLILANSVKYNGP-E-----------------SQY----TKTA
+QEIVN-I-CYQ-TITEY-DE
+>smart|BROMO-uniprot|Q8WWQ0|PHIP_HUMAN/1158-1261  PH-interacting protein [Homo sapiens]
+TNP----RDEECERIVAGIN---Q-------------------------------LM---
+-----------------------------------------------------------T
+L-DI-A----SAFV-----------APVD------L--Q--A------------------
+-------Y----------------PM---------------YCTVVAYPTDLSTIKQRLE
+NR---FYRRVSSLMWEVRYIEHNTRTFNEP-G-----------------SPI----VKSA
+KFVTD-L-LLH-FI-----K
+>smart|BROMO-uniprot|Q8WWQ0|PHIP_HUMAN/1318-1423  PH-interacting protein [Homo sapiens]
+IQAWKK----QCEELLN-------LI------------------------------F---
+-----------------------------------------------------------Q
+C-ED-S----EPFR-----------QPVD------L--L--E------------------
+-------Y----------------PD---------------YRDIIDTPMDFATVRETLE
+AG---NYESPMELCKDVRLIFSNSKAYTPSKR-----------------SRI----YSMS
+LRLSA-F-FEE-HISSV-LS
+>smart|BROMO-uniprot|Q92793-2|Q92793-2/1046-1156  Isoform 2 of CREB-binding protein [Homo sapiens]
+IFKPE-----ELRQALMPTL---EAL------------------------------Y---
+-----------------------------------------------------------R
+QDPE-S----LPFR-----------QPVD------PQLL--G------------------
+-------I----------------PD---------------YFDIVKNPMDLSTIKRKLD
+TG---QYQEPWQYVDDVWLMFNNAWLYNRK-T-----------------SRV----YKFC
+SKLAE-V-FEQ-EIDPV-MQ
+>smart|BROMO-uniprot|Q92793|CBP_HUMAN/1084-1194  CREB-binding protein [Homo sapiens]
+IFKPE-----ELRQALMPTL---EAL------------------------------Y---
+-----------------------------------------------------------R
+QDPE-S----LPFR-----------QPVD------PQLL--G------------------
+-------I----------------PD---------------YFDIVKNPMDLSTIKRKLD
+TG---QYQEPWQYVDDVWLMFNNAWLYNRK-T-----------------SRV----YKFC
+SKLAE-V-FEQ-EIDPV-MQ
+>smart|BROMO-uniprot|Q92830|KAT2A_HUMAN/726-834  Histone acetyltransferase KAT2A [Homo sapiens]
+ELKDPD----QLYTTLKNLL---AQI------------------------------K---
+-----------------------------------------------------------S
+H-PS-A----WPFM-----------EPVK------K--S--E------------------
+-------A----------------PD---------------YYEVIRFPIDLKTMTERLR
+SR---YYVTRKLFVADLQRVIANCREYNPP-D-----------------SEY----CRCA
+SALEK-F-FYF-KLKEG-GL
+>smart|BROMO-uniprot|Q92831|KAT2B_HUMAN/721-829  Histone acetyltransferase KAT2B [Homo sapiens]
+EPRDPD----QLYSTLKSIL---QQV------------------------------K---
+-----------------------------------------------------------S
+H-QS-A----WPFM-----------EPVK------R--T--E------------------
+-------A----------------PG---------------YYEVIRFPMDLKTMSERLK
+NR---YYVSKKLFMADLQRVFTNCKEYNPP-E-----------------SEY----YKCA
+NILEK-F-FFS-KIKEA-GL
+>smart|BROMO-uniprot|Q9BXF3-2|Q9BXF3-2/408-495  Isoform B of Cat eye syndrome critical region protein 2 [Homo sapiens]
+LDDDF--------TAMYKVL---DVV------------------------------K---
+-----------------------------------------------------------A
+H-KD-S----WPFL-----------EPVD------E--S--Y------------------
+-------A----------------PN---------------YYQIIKAPMDISSMEKKLN
+GG---LYCTKEEFVNDMKTMFRNCRKYNGE-S-----------------SGK----QG--
+-------------------R
+>smart|BROMO-uniprot|Q9BXF3-3|Q9BXF3-3/416-520  Isoform C of Cat eye syndrome critical region protein 2 [Homo sapiens]
+LDDDF--------TAMYKVL---DVV------------------------------K---
+-----------------------------------------------------------A
+H-KD-S----WPFL-----------EPVD------E--S--Y------------------
+-------A----------------PN---------------YYQIIKAPMDISSMEKKLN
+GG---LYCTKEEFVNDMKTMFRNCRKYNGE-S-----------------SEY----TKMS
+DNLER-C-FHR-AMMKH-FP
+>smart|BROMO-uniprot|Q9BXF3|CECR2_HUMAN/436-540  Cat eye syndrome critical region protein 2 [Homo sapiens]
+LDDDF--------TAMYKVL---DVV------------------------------K---
+-----------------------------------------------------------A
+H-KD-S----WPFL-----------EPVD------E--S--Y------------------
+-------A----------------PN---------------YYQIIKAPMDISSMEKKLN
+GG---LYCTKEEFVNDMKTMFRNCRKYNGE-S-----------------SEY----TKMS
+DNLER-C-FHR-AMMKH-FP
+>smart|BROMO-uniprot|Q9H0E9|BRD8_HUMAN/1101-1209  Bromodomain-containing protein 8 [Homo sapiens]
+PVQDHL----LFKKTLLPVW---KMI------------------------------A---
+-----------------------------------------------------------S
+H-RF-S----SPFL-----------KPVS------E--R--Q------------------
+-------A----------------PG---------------YKDVVKRPMDLTSLKRNLS
+KG---RIRTMAQFLRDLMLMFQNAVMYNDS-D-----------------HHV----YHMA
+VEMRQ-E-VLE-QIQVL-NI
+>smart|BROMO-uniprot|Q9H0E9|BRD8_HUMAN/705-813  Bromodomain-containing protein 8 [Homo sapiens]
+AIQAQK----IWKKAIMLVW---RAA------------------------------A---
+-----------------------------------------------------------N
+H-RY-A----NVFL-----------QPVT------D--D--I------------------
+-------A----------------PG---------------YHSIVQRPMDLSTIKKNIE
+NG---LIRSTAEFQRDIMLMFQNAVMYNSS-D-----------------HDV----YHMA
+VEMQR-D-VLE-QIQQF-LA
+>smart|BROMO-uniprot|Q9H8M2-1|Q9H8M2-1/18-126  Isoform 5 of Bromodomain-containing protein 9 [Homo sapiens]
+AENEST----PIQQLLEHFL---RQL------------------------------Q---
+-----------------------------------------------------------R
+K-DP-H----GFFA-----------FPVT------D--A--I------------------
+-------A----------------PG---------------YSMIIKHPMDFGTMKDKIV
+AN---EYKSVTEFKADFKLMCDNAMTYNRP-D-----------------TVY----YKLA
+KKILH-A-GFK-MMSKE-RL
+>smart|BROMO-uniprot|Q9H8M2-4|Q9H8M2-4/18-126  Isoform 4 of Bromodomain-containing protein 9 [Homo sapiens]
+AENEST----PIQQLLEHFL---RQL------------------------------Q---
+-----------------------------------------------------------R
+K-DP-H----GFFA-----------FPVT------D--A--I------------------
+-------A----------------PG---------------YSMIIKHPMDFGTMKDKIV
+AN---EYKSVTEFKADFKLMCDNAMTYNRP-D-----------------TVY----YKLA
+KKILH-A-GFK-MMSKQ-AA
+>smart|BROMO-uniprot|Q9H8M2-6|Q9H8M2-6/21-189  Isoform 6 of Bromodomain-containing protein 9 [Homo sapiens]
+RSPRRR----SIWTMRKEGS---ERK------------------------------R--R
+SGSERGSTVTRRERLTTLILGRRWRWSRPQIGQSERAGHSQPKMRAHLFSNSWNTSSASF
+R-DP-H----GFFA-----------FPVT------D--A--I------------------
+-------A----------------PG---------------YSMIIKHPMDFGTMKDKIV
+AN---EYKSVTEFKADFKLMCDNAMTYNRP-D-----------------TVY----YKLA
+KKILH-A-GFK-MMSKQ-AA
+>smart|BROMO-uniprot|Q9H8M2|BRD9_HUMAN/134-242  Bromodomain-containing protein 9 [Homo sapiens]
+AENEST----PIQQLLEHFL---RQL------------------------------Q---
+-----------------------------------------------------------R
+K-DP-H----GFFA-----------FPVT------D--A--I------------------
+-------A----------------PG---------------YSMIIKHPMDFGTMKDKIV
+AN---EYKSVTEFKADFKLMCDNAMTYNRP-D-----------------TVY----YKLA
+KKILH-A-GFK-MMSKQ-AA
+>smart|BROMO-uniprot|Q9H930|SP14L_HUMAN/469-572  Nuclear body protein SP140-like protein [Homo sapiens]
+CPEEQL----KCEFLLLKVY---CCS----------------------------------
+------------------------------------------------------------
+---E-S----SFFA-----------KIPY------Y--Y--Y------------------
+-------I----------------RE---------------ACQGLKEPMWLDKIKKRLN
+EH---GYPQVEGFVQDMRLIFQNHRASYKY-------------------KDF----GQMG
+LRLEA-E-FEK-DFKEV-FA
+>smart|BROMO-uniprot|Q9HB58-6|Q9HB58-6/600-700  Isoform 6 of Sp110 nuclear body protein [Homo sapiens]
+QPQDQL----KCEFLLLKAY---CHP----------------------------------
+------------------------------------------------------------
+---Q-S----SFFT-----------G--I------P--F--N------------------
+-------I----------------RD---------------YGEPFQEAMWLDLVKERLI
+TE---MYT-VAWFVRDMRLMFRNHKTFYKA-------------------SDF----GQVG
+LDLEA-E-FEK-DLKDV-LG
+>smart|BROMO-uniprot|Q9HB58|SP110_HUMAN/581-676  Sp110 nuclear body protein [Homo sapiens]
+RSSGSQ----QCHHVSKTLE---RQ-----------------------------------
+------------------------------------------------------------
+------------MQ-----------P--Q------D--Q--L------------------
+-------I----------------RD---------------YGEPFQEAMWLDLVKERLI
+TE---MYT-VAWFVRDMRLMFRNHKTFYKA-------------------SDF----GQVG
+LDLEA-E-FEK-DLKDV-LG
+>smart|BROMO-uniprot|Q9NPI1-2|Q9NPI1-2/129-237  Isoform 2 of Bromodomain-containing protein 7 [Homo sapiens]
+EEVEQT----PLQEALNQLM---RQL------------------------------Q---
+-----------------------------------------------------------R
+K-DP-S----AFFS-----------FPVT------D--F--I------------------
+-------A----------------PG---------------YSMIIKHPMDFSTMKEKIK
+NN---DYQSIEELKDNFKLMCTNAMIYNKP-E-----------------TIY----YKAA
+KKLLH-S-GMK-ILSQE-RI
+>smart|BROMO-uniprot|Q9NR48|ASH1L_HUMAN/2442-2552  Histone-lysine N-methyltransferase ASH1L [Homo sapiens]
+AARLAQ----IFKEICDGII---SYK-----D-----------------------SS---
+-----------------------------------------------------------R
+Q-AL-A----APLL-----------NLPP------K--K--K------------------
+-------N----------------AD---------------YYEKISDPLDLITIEKQIL
+TG---YYKTVEAFDADMLKVFRNAEKYYGR-K-----------------SPV----GRDV
+CRLRK-A-YYN-ARHEA-SA
+>smart|BROMO-uniprot|Q9NRL2-2|Q9NRL2-2/1395-1503  Isoform 2 of Bromodomain adjacent to zinc finger domain protein 1A [Homo sapiens]
+GRQGGV----HELSAFEQLV---VEL------------------------------V---
+-----------------------------------------------------------R
+H-DD-S----WPFL-----------KLVS------K--I--Q------------------
+-------V----------------PD---------------YYDIIKKPIALNIIREKVN
+KC---EYKLASEFIDDIELMFSNCFEYNPR-N-----------------TSE----AKAG
+TRLQA-F-FHI-QAQKL-GL
+>smart|BROMO-uniprot|Q9NRL2|BAZ1A_HUMAN/1427-1535  Bromodomain adjacent to zinc finger domain protein 1A [Homo sapiens]
+GRQGGV----HELSAFEQLV---VEL------------------------------V---
+-----------------------------------------------------------R
+H-DD-S----WPFL-----------KLVS------K--I--Q------------------
+-------V----------------PD---------------YYDIIKKPIALNIIREKVN
+KC---EYKLASEFIDDIELMFSNCFEYNPR-N-----------------TSE----AKAG
+TRLQA-F-FHI-QAQKL-GL
+>smart|BROMO-uniprot|Q9NSI6|BRWD1_HUMAN/1155-1267  Bromodomain and WD repeat-containing protein 1 [Homo sapiens]
+GEWGQKSRDEECDRIISGID---Q-------------------------------LL---
+-----------------------------------------------------------N
+L-DI-A----AAFA-----------GPVD------L--C--T------------------
+-------Y----------------PK---------------YCTVVAYPTDLYTIRMRLV
+NR---FYRRLSALVWEVRYIEHNARTFNEP-E-----------------SVI----ARSA
+KKITD-Q-LLK-FIKNQHCT
+>smart|BROMO-uniprot|Q9NSI6|BRWD1_HUMAN/1315-1420  Bromodomain and WD repeat-containing protein 1 [Homo sapiens]
+ESNWKK----QCKELVN-------LI------------------------------F---
+-----------------------------------------------------------Q
+C-ED-S----EPFR-----------QPVD------L--V--E------------------
+-------Y----------------PD---------------YRDIIDTPMDFGTVRETLD
+AG---NYDSPLEFCKDIRLIFSNAKAYTPNKR-----------------SKI----YSMT
+LRLSA-L-FEE-KMKKI-SS
+>smart|BROMO-uniprot|Q9UIF8-2|Q9UIF8-2/1958-2066  Isoform 2 of Bromodomain adjacent to zinc finger domain protein 2B [Homo sapiens]
+PKRDDS----KDLALCSMIL---TEM------------------------------E---
+-----------------------------------------------------------T
+H-ED-A----WPFL-----------LPVN------L--K--L------------------
+-------V----------------PG---------------YKKVIKKPMDFSTIREKLS
+SG---QYPNLETFALDVRLVFDNCETFNED-D-----------------SDI----GRAG
+HNMRK-Y-FEK-KWTDT-FK
+>smart|BROMO-uniprot|Q9UIF8-3|Q9UIF8-3/2024-2132  Isoform 3 of Bromodomain adjacent to zinc finger domain protein 2B [Homo sapiens]
+PKRDDS----KDLALCSMIL---TEM------------------------------E---
+-----------------------------------------------------------T
+H-ED-A----WPFL-----------LPVN------L--K--L------------------
+-------V----------------PG---------------YKKVIKKPMDFSTIREKLS
+SG---QYPNLETFALDVRLVFDNCETFNED-D-----------------SDI----GRAG
+HNMRK-Y-FEK-KWTDT-FK
+>smart|BROMO-uniprot|Q9UIF8|BAZ2B_HUMAN/2058-2166  Bromodomain adjacent to zinc finger domain protein 2B [Homo sapiens]
+PKRDDS----KDLALCSMIL---TEM------------------------------E---
+-----------------------------------------------------------T
+H-ED-A----WPFL-----------LPVN------L--K--L------------------
+-------V----------------PG---------------YKKVIKKPMDFSTIREKLS
+SG---QYPNLETFALDVRLVFDNCETFNED-D-----------------SDI----GRAG
+HNMRK-Y-FEK-KWTDT-FK
+>smart|BROMO-uniprot|Q9UIF9-2|Q9UIF9-2/1764-1872  Isoform 1 of Bromodomain adjacent to zinc finger domain protein 2A [Homo sapiens]
+SMRNHH----SDLTFCEIIL---MEM------------------------------E---
+-----------------------------------------------------------S
+H-DA-A----WPFL-----------EPVN------P--R--L------------------
+-------V----------------SG---------------YRRIIKNPMDFSTMRERLL
+RG---GYTSSEEFAADALLVFDNCQTFNED-D-----------------SEV----GKAG
+HIMRR-F-FES-RWEEF-YQ
+>smart|BROMO-uniprot|Q9UIG0|BAZ1B_HUMAN/1337-1445  Tyrosine-protein kinase BAZ1B [Homo sapiens]
+SSRRQSLELQKCEEILHKIV------------------------------------K---
+------------------------------------------------------------
+Y-RF-S----WPFR-----------EPVT------R--D--E------------------
+-------A----------------ED---------------YYDVITHPMDFQTVQNKCS
+CG---SYRSVQEFLTDMKQVFTNAEVYNCR-G-----------------SHV----LSCM
+VKTEQ-C-LVA-LLHK-HLP
+>smart|BROMO-uniprot|Q9ULD4|BRPF3_HUMAN/587-695  Bromodomain and PHD finger-containing protein 3 [Homo sapiens]
+MELELM----PFNVLLRTTL---DLL------------------------------Q---
+-----------------------------------------------------------E
+K-DP-A----HIFA-----------EPVN------L--S--E------------------
+-------V----------------PD---------------YLEFISKPMDFSTMRRKLE
+SH---LYRTLEEFEEDFNLIVTNCMKYNAK-D-----------------TIF----HRAA
+VRLRD-L-GGA-ILRHA-RR
+>smart|BROMO-uniprot|Q9ULI0|ATD2B_HUMAN/956-1068  ATPase family AAA domain-containing protein 2B [Homo sapiens]
+EENTLR----ELRLFLRDVT---KRL------------------------------A---
+-----------------------------------------------------------T
+D-KR-F----NIFS-----------KPVD------I--E--E------------------
+-------V----------------SD---------------YLEVIKEPMDLSTVITKID
+KH---NYLTAKDFLKDIDLICSNALEYNPD-K-----------------DPGDKIIRHRA
+CTLKD-T-AHA-IIAAE-LD
+>smart|BROMO-uniprot|Q9ULU4-10|Q9ULU4-10/167-274  Isoform 10 of Protein kinase C-binding protein 1 [Homo sapiens]
+TMLTIE----QLSYLLKFAI---Q-------------------------------KM---
+-----------------------------------------------------------K
+Q-PG-T----DAFQ-----------KPVP------L--E--Q------------------
+-------H----------------PD---------------YAEYIFHPMDLCTLEKNAK
+KK---MYGCTEAFLADAKWILHNCIIYNGG-N-----------------HKL----TQIA
+KVVIK-I-CEH-EMNEI-EV
+>smart|BROMO-uniprot|Q9ULU4-13|Q9ULU4-13/167-274  Isoform 13 of Protein kinase C-binding protein 1 [Homo sapiens]
+TMLTIE----QLSYLLKFAI---Q-------------------------------KM---
+-----------------------------------------------------------K
+Q-PG-T----DAFQ-----------KPVP------L--E--Q------------------
+-------H----------------PD---------------YAEYIFHPMDLCTLEKNAK
+KK---MYGCTEAFLADAKWILHNCIIYNGG-N-----------------HKL----TQIA
+KVVIK-I-CEH-EMNEI-EV
+>smart|BROMO-uniprot|Q9ULU4-15|Q9ULU4-15/142-249  Isoform 15 of Protein kinase C-binding protein 1 [Homo sapiens]
+TMLTIE----QLSYLLKFAI---Q-------------------------------KM---
+-----------------------------------------------------------K
+Q-PG-T----DAFQ-----------KPVP------L--E--Q------------------
+-------H----------------PD---------------YAEYIFHPMDLCTLEKNAK
+KK---MYGCTEAFLADAKWILHNCIIYNGG-N-----------------HKL----TQIA
+KVVIK-I-CEH-EMNEI-EV
+>smart|BROMO-uniprot|Q9ULU4-16|Q9ULU4-16/142-249  Isoform 16 of Protein kinase C-binding protein 1 [Homo sapiens]
+TMLTIE----QLSYLLKFAI---Q-------------------------------KM---
+-----------------------------------------------------------K
+Q-PG-T----DAFQ-----------KPVP------L--E--Q------------------
+-------H----------------PD---------------YAEYIFHPMDLCTLEKNAK
+KK---MYGCTEAFLADAKWILHNCIIYNGG-N-----------------HKL----TQIA
+KVVIK-I-CEH-EMNEI-EV
+>smart|BROMO-uniprot|Q9ULU4-3|Q9ULU4-3/2-109  Isoform 3 of Protein kinase C-binding protein 1 [Homo sapiens]
+TMLTIE----QLSYLLKFAI---Q-------------------------------KM---
+-----------------------------------------------------------K
+Q-PG-T----DAFQ-----------KPVP------L--E--Q------------------
+-------H----------------PD---------------YAEYIFHPMDLCTLEKNAK
+KK---MYGCTEAFLADAKWILHNCIIYNGG-N-----------------HKL----TQIA
+KVVIK-I-CEH-EMNEI-EV
+>smart|BROMO-uniprot|Q9ULU4-8|Q9ULU4-8/167-274  Isoform 8 of Protein kinase C-binding protein 1 [Homo sapiens]
+TMLTIE----QLSYLLKFAI---Q-------------------------------KM---
+-----------------------------------------------------------K
+Q-PG-T----DAFQ-----------KPVP------L--E--Q------------------
+-------H----------------PD---------------YAEYIFHPMDLCTLEKNAK
+KK---MYGCTEAFLADAKWILHNCIIYNGG-N-----------------HKL----TQIA
+KVVIK-I-CEH-EMNEI-EV
+>smart|BROMO-uniprot|Q9UPN9|TRI33_HUMAN/959-1082  E3 ubiquitin-protein ligase TRIM33 [Homo sapiens]
+SPVDQR----KCERLLLYLY---C------------------------------------
+------------------------------------------------------------
+H-EL-S----IEFQ-----------EPV-------P--A--S------------------
+-------I----------------PN---------------YYKIIKKPMDLSTVKKKLQ
+KKHSQHYQIPDDFVADVRLIFKNCERFNEM-MKVVQVYADTQEINLKADSEV----AQAG
+KAVAL-Y-FED-KLTEI-YS
+>smart|BROMO-uniprot|UPI000015559E|UPI000015559E/1458-1569  PREDICTED: transcription activator BRG1 isoform X4 [Homo sapiens]
+PPNLTK----KMKKIVDAVI---KYK-----D-----------------S-----SS---
+-----------------------------------------------------------G
+R-QL-S----EVFI-----------QLPS------R--K--E------------------
+-------L----------------PE---------------YYELIRKPVDFKKIKERIR
+NH---KYRSLNDLEKDVMLLCQNAQTFNLE-G-----------------SLI----YEDS
+IVLQS-V-FTS-VRQKI-EK
+>smart|BROMO-uniprot|UPI000015559F|UPI000015559F/1490-1601  PREDICTED: transcription activator BRG1 isoform X1 [Homo sapiens]
+PPNLTK----KMKKIVDAVI---KYK-----D-----------------S-----SS---
+-----------------------------------------------------------G
+R-QL-S----EVFI-----------QLPS------R--K--E------------------
+-------L----------------PE---------------YYELIRKPVDFKKIKERIR
+NH---KYRSLNDLEKDVMLLCQNAQTFNLE-G-----------------SLI----YEDS
+IVLQS-V-FTS-VRQKI-EK
+>smart|BROMO-uniprot|UPI0000D8949A|UPI0000D8949A/1-109  Peregrin [Homo sapiens]
+GSSGSS----GFLILLRKTL---EQL------------------------------Q---
+-----------------------------------------------------------E
+K-DT-G----NIFS-----------EPVP------L--S--E------------------
+-------V----------------PD---------------YLDHIKKPMDFFTMKQNLE
+AY---RYLNFDDFEEDFNLIVSNCLKYNAK-D-----------------TIF----YRAA
+VRLRE-Q-GGA-VLRQA-RR
+>smart|BROMO-uniprot|UPI0000E5717E|UPI0000E5717E/6-113  hypothetical protein KIAA1240 [Homo sapiens]
+SGNTLR----ELRLFLRDVT---KRL------------------------------A---
+-----------------------------------------------------------T
+D-KR-F----NIFS-----------KP---------------------------------
+-------V----------------SD---------------YLEVIKEPMDLSTVITKID
+KH---NYLTAKDFLKDIDLICSNALEYNPD-K-----------------DPGDKIIRHRA
+CTLKD-T-AHA-IIAAE-LD
+>smart|BROMO-uniprot|UPI0000ECF3D0|UPI0000ECF3D0/11-121  Possible global transcription activator SNF2L [Homo sapiens]
+PPKLTK----QMNAIIDTVI---NYK-----D-----------------------SS---
+-----------------------------------------------------------G
+R-QL-S----EVFI-----------QLPS------R--K--E------------------
+-------L----------------PE---------------YYELIRKPVDFKKIKERIR
+NH---KYRSLGDLEKDVMLLCHNAQTFNLE-G-----------------SQI----YEDS
+IVLQS-V-FKS-ARQSG-PS
+>smart|BROMO-uniprot|UPI0000EE28AB|UPI0000EE28AB/626-734  PREDICTED: peregrin isoform X1 [Homo sapiens]
+MEMQLT----PFLILLRKTL---EQL------------------------------Q---
+-----------------------------------------------------------E
+K-DT-G----NIFS-----------EPVP------L--S--E------------------
+-------V----------------PD---------------YLDHIKKPMDFFTMKQNLE
+AY---RYLNFDDFEEDFNLIVSNCLKYNAK-D-----------------TIF----YRAA
+VRLRE-Q-GGA-VLRQA-RR
+>smart|BROMO-uniprot|UPI0000EE6F8C|UPI0000EE6F8C/1399-1507  PREDICTED: transcription initiation factor TFIID subunit 1 isoform X1 [Homo sapiens]
+RTDPMV----TLSSILESII---NDM------------------------------R---
+-----------------------------------------------------------D
+L-PN-T----YPFH-----------TPVN------A--K--V------------------
+-------V----------------KD---------------YYKIITRPMDLQTLRENVR
+KR---LYPSREEFREHLELIVKNSATYNGP-K-----------------HSL----TQIS
+QSMLD-L-CDE-KLKEK-ED
+>smart|BROMO-uniprot|UPI0000EE6F8C|UPI0000EE6F8C/1521-1630  PREDICTED: transcription initiation factor TFIID subunit 1 isoform X1 [Homo sapiens]
+DDDDQV----AFSFILDNIV---TQK------------------------------MM--
+-----------------------------------------------------------A
+V-PD-S----WPFH-----------HPVN------K--K--F------------------
+-------V----------------PD---------------YYKVIVNPMDLETIRKNIS
+KH---KYQSRESFLDDVNLILANSVKYNGP-E-----------------SQY----TKTA
+QEIVN-V-CYQ-TLTEY-DE
+>smart|BROMO-uniprot|UPI0000F0E98F|UPI0000F0E98F/5-116  Probable global transcription activator SNF2L [Homo sapiens]
+PPNLTK----KMKKIVDAVI---KYK-----D-----------------S-----SS---
+-----------------------------------------------------------G
+R-QL-S----EVFI-----------QLPS------R--K--E------------------
+-------L----------------PE---------------YYELIRKPVDFKKIKERIR
+NH---KYRSLNDLEKDVMLLCQNAQTFNLE-G-----------------SLI----YEDS
+IVLQS-V-FTS-VRQKI-EK
+>smart|BROMO-uniprot|UPI0000F24413|UPI0000F24413/1-108  Bromodomain-containing protein 2 [Homo sapiens]
+E--QLK----HCNVILKELL---SK-------------------------------K---
+-----------------------------------------------------------H
+A-AY-A----WPFY-----------KPVD------A--SALG------------------
+-------L----------------HD---------------YHDIIKHPMDLSTVKRKME
+NR---DYRDAQEFAADVRLMFSNCYKYNPP-D-----------------HDV----VAMA
+RKLQD-V-FEF-RYAKM-PD
+>smart|BROMO-uniprot|UPI0001586CC8|UPI0001586CC8/2-110  Bromodomain-containing protein 7 [Homo sapiens]
+EEVEQT----PLQEALNQLM---RQL------------------------------Q---
+-----------------------------------------------------------R
+K-DP-S----AFFS-----------FPVT------D--F--I------------------
+-------A----------------PG---------------YSMIIKHPMDFSTMKEKIK
+NN---DYQSIEELKDNFKLMCTNAMIYNKP-E-----------------TIY----YKAA
+KKLLH-S-GMK-ILSQE-RL
+>smart|BROMO-uniprot|UPI000158A162|UPI000158A162/10-117  Bromodomain-containing protein 3 [Homo sapiens]
+LSEHLR----YCDSILREML---SK-------------------------------K---
+-----------------------------------------------------------H
+A-AY-A----WPFY-----------KPVD------A--EALE------------------
+-------L----------------HD---------------YHDIIKHPMDLSTVKRKMD
+GR---EYPDAQGFAADVRLMFSNCYKYNPP-D-----------------HEV----VAMA
+RKLQD-V-FEM-RFAK---M
+>smart|BROMO-uniprot|UPI000158A163|UPI000158A163/4-112  Bromodomain adjacent to zinc finger domain 2B [Homo sapiens]
+GSSGDS----KDLALCSMIL---TEM------------------------------E---
+-----------------------------------------------------------T
+H-ED-A----WPFL-----------LPVN------L--K--L------------------
+-------V----------------PG---------------YKKVIKKPMDFSTIREKLS
+SG---QYPNLETFALDVRLVFDNCETFNED-D-----------------SDI----GRAG
+HNMRK-Y-FEK-KWTDT-FK
+>smart|BROMO-uniprot|UPI000173A17D|UPI000173A17D/74-184  unknown [Homo sapiens]
+PGRVTN----QLQYLHKVVM---KAL------------------------------W---
+-----------------------------------------------------------K
+H-QF-A----WPFR-----------QPVD------AVKL--G------------------
+-------L----------------PD---------------YHKIIKQPMDMGTIKRRLE
+NN---YYWAASECMQDFNTMFTNCYIYNKP-T-----------------DDI----VLMA
+QTLEK-I-FLQ-KVASM-PQ
+>smart|BROMO-uniprot|UPI00017537DE|UPI00017537DE/1-108  Bromodomain-containing protein 4 [Homo sapiens]
+--EQLK----CCSGILKEMF---AK-------------------------------K---
+-----------------------------------------------------------H
+A-AY-A----WPFY-----------KPVD------V--EALG------------------
+-------L----------------HD---------------YCDIIKHPMDMSTIKSKLE
+AR---EYRDAQEFGADVRLMFSNCYKYNPP-D-----------------HEV----VAMA
+RKLQD-V-FEM-RFAKM-LQ
+>smart|BROMO-uniprot|UPI00017543B3|UPI00017543B3/15-125  Bromodomain-containing protein 3 [Homo sapiens]
+PGRKTN----QLQYMQNVVV---KTL------------------------------W---
+-----------------------------------------------------------K
+H-QF-A----WPFY-----------QPVD------AIKL--N------------------
+-------L----------------PD---------------YHKIIKNPMDMGTIKKRLE
+NN---YYWSASECMQDFNTMFTNCYIYNKP-T-----------------DDI----VLMA
+QALEK-I-FLQ-KVAQM-PQ
+>smart|BROMO-uniprot|UPI0001754446|UPI0001754446/18-123  Transcription intermediary factor 1-alpha [Homo sapiens]
+TPIDKR----KCERLLLFLY---C------------------------------------
+------------------------------------------------------------
+H-EM-S----LAFQ-----------DPV-------P--L--T------------------
+-------V----------------PD---------------YYKIIKNPMDLSTIKKRLQ
+ED-YSMYSKPEDFVADFRLIFQNCAEFNEP-D-----------------SEV----ANAG
+IKLEN-Y-FEE-LLKNL-YP
+>smart|BROMO-uniprot|UPI000195B1F0|UPI000195B1F0/6-116  Bromodomain-containing protein 2 [Homo sapiens]
+SGRVTN----QLQYLHKVVM---KAL------------------------------W---
+-----------------------------------------------------------K
+H-QF-A----WPFR-----------QPVD------AVKL--G------------------
+-------L----------------PD---------------YHKIIKQPMDMGTIKRRLE
+NN---YYWAASECMQDFNTMFTNCYIYNKP-T-----------------DDI----VLMA
+QTLEK-I-FLQ-KVASM-PQ
+>smart|BROMO-uniprot|UPI0001BE6785|UPI0001BE6785/15-125  Protein polybromo-1 [Homo sapiens]
+TENLYF----QSMQLYDTVR---SCR-----N-----------------------NQ---
+-----------------------------------------------------------G
+Q-LI-A----EPFY-----------HLPS------K--K--K------------------
+-------Y----------------PD---------------YYQQIKMPISLQQIRTKLK
+NQ---EYETLDHLECDLNLMFENAKRYNVP-N-----------------SAI----YKRV
+LKLQQ-V-MQA-KKKEL-AR
+>smart|BROMO-uniprot|UPI0001DBB67D|UPI0001DBB67D/69-166  Histone-lysine N-methyltransferase MLL [Homo sapiens]
+RLALEK----ELQISLKQVL---TAL------------------------------L---
+-----------------------------------------------------------N
+S-RT-T----SH------------------------------------------------
+----------------------------------------LLRYRQQQPLDLEGVKRKMD
+QG---NYTSVLEFSDDIVKIIQAAINSDGG-Q-----------------PEI----KKAN
+SMVKS-F-FIR-QMERV-FP
+>smart|BROMO-uniprot|UPI00020F055D|UPI00020F055D/7-115  Nucleosome-remodeling factor subunit BPTF [Homo sapiens]
+LTPLTE----KDYEGLKRVL---RSL------------------------------Q---
+-----------------------------------------------------------A
+H-KM-A----WPFL-----------EPVD------P--N--D------------------
+-------A----------------PD---------------YYGVIKEPMDLATMEERVQ
+RR---YYEKLTEFVADMTAIFDNCRYYNPS-D-----------------SPF----YQCA
+EVLES-F-FVQ-KLKGF-KA
+>smart|BROMO-uniprot|UPI00022A9A9F|UPI00022A9A9F/22-133  Protein polybromo-1 [Homo sapiens]
+KNIRKQ----RMKILFNVVL---EAR------------------------------EPGS
+-----------------------------------------------------------G
+R-RL-C----DLFM-----------VKPS------K--K--D------------------
+-------Y----------------PD---------------YYKIILEPMDLKIIEHNIR
+ND---KYAGEEGMIEDMKLMFRNARHYNEE-G-----------------SQV----YNDA
+HILEK-L-LKE-KRKEL-GP
+>smart|BROMO-uniprot|UPI000245947D|UPI000245947D/26-136  BROMODOMAIN-CONTAINING PROTEIN 2 [Homo sapiens]
+PGRVTN----QLQYLHKVVM---KAL------------------------------W---
+-----------------------------------------------------------K
+H-QF-A----WPFR-----------QPVD------AVKL--G------------------
+-------L----------------PD---------------YHKIIKQPMDMGTIKRRLE
+NN---YYWAASECMQDFNTMFTNCYIYNKP-T-----------------DDI----VLMA
+QTLEK-I-FLQ-KVASM-PQ
+>smart|BROMO-uniprot|UPI000252CB30|UPI000252CB30/23-132  second bromodomain of human Transcription ini [Homo sapiens]
+MDDDQV----AFSFILDNIV---TQK------------------------------MM--
+-----------------------------------------------------------A
+V-PD-S----WPFH-----------HPVN------K--K--F------------------
+-------V----------------PD---------------YYKVIVNPMDLETIRKNIS
+KH---KYQSRESFLDDVNLILANSVKYNGP-E-----------------SQY----TKTA
+QEIVN-V-CYQ-TLTEY-DE
+>smart|BROMO-uniprot|UPI0002B4DC44|UPI0002B4DC44/35-145  Bromodomain-containing protein 4 [Homo sapiens]
+PKRQTN----QLQYLLRVVL---KTL------------------------------W---
+-----------------------------------------------------------K
+H-QF-A----WPFQ-----------QPVD------AVKL--N------------------
+-------L----------------PD---------------YYKIIKTPMDMGTIKKRLE
+NN---YYWNAQECIQDFNTMFTNCYIYNKP-G-----------------DDI----VLMA
+EALEK-L-FLQ-KINEL-PT
+>smart|BROMO-uniprot|UPI000387AC9A|UPI000387AC9A/16-126  HISTONE ACETYLTRANSFERASE P300 [Homo sapiens]
+IFKPE-----ELRQALMPTL---EAL------------------------------Y---
+-----------------------------------------------------------R
+QDPE-S----LPFR-----------QPVD------PQLL--G------------------
+-------I----------------PD---------------YFDIVKSPMDLSTIKRKLD
+TG---QYQEPWQYVDDIWLMFNNAWLYNRK-T-----------------SRV----YKYC
+SKLSE-V-FEQ-EIDPV-MQ
+>smart|BROMO-uniprot|UPI000387AE09|UPI000387AE09/626-740  PREDICTED: peregrin isoform X4 [Homo sapiens]
+MEMQLT----PFLILLRKTL---EQL------------------------------Q---
+-----------------------------------------------------------E
+K-DT-G----NIFS-----------EPVPLSEVTEL--D--E------------------
+-------V----------------PD---------------YLDHIKKPMDFFTMKQNLE
+AY---RYLNFDDFEEDFNLIVSNCLKYNAK-D-----------------TIF----YRAA
+VRLRE-Q-GGA-VLRQA-RR
+>smart|BROMO-uniprot|UPI000387AEE2|UPI000387AEE2/2006-2114  PREDICTED: bromodomain adjacent to zinc finger domain protein 2B isoform X11 [Homo sapiens]
+PKRDDS----KDLALCSMIL---TEM------------------------------E---
+-----------------------------------------------------------T
+H-ED-A----WPFL-----------LPVN------L--K--L------------------
+-------V----------------PG---------------YKKVIKKPMDFSTIREKLS
+SG---QYPNLETFALDVRLVFDNCETFNED-D-----------------SDI----GRAG
+HNMRK-Y-FEK-KWTDT-FK
+>smart|BROMO-uniprot|UPI000387B04B|UPI000387B04B/2102-2210  PREDICTED: bromodomain adjacent to zinc finger domain protein 2B isoform X4 [Homo sapiens]
+PKRDDS----KDLALCSMIL---TEM------------------------------E---
+-----------------------------------------------------------T
+H-ED-A----WPFL-----------LPVN------L--K--L------------------
+-------V----------------PG---------------YKKVIKKPMDFSTIREKLS
+SG---QYPNLETFALDVRLVFDNCETFNED-D-----------------SDI----GRAG
+HNMRK-Y-FEK-KWTDT-FK
+>smart|BROMO-uniprot|UPI000387B073|UPI000387B073/706-809  PREDICTED: nuclear body protein SP140 isoform X4 [Homo sapiens]
+CPEEQL----KCEFLLLKVY---CCS----------------------------------
+------------------------------------------------------------
+---E-S----SFFA-----------KIPY------Y--Y--Y------------------
+-------I----------------RE---------------ACQGLKEPMWLDKIKKRLN
+EH---GYPQVEGFVQDMRLIFQNHRASYKY-------------------KDF----GQMG
+FRLEA-E-FEK-NFKEV-FA
+>smart|BROMO-uniprot|UPI000387B227|UPI000387B227/1809-1917  PREDICTED: bromodomain adjacent to zinc finger domain protein 2A isoform X2 [Homo sapiens]
+SMRNHH----SDLTFCEIIL---MEM------------------------------E---
+-----------------------------------------------------------S
+H-DA-A----WPFL-----------EPVN------P--R--L------------------
+-------V----------------SG---------------YRRIIKNPMDFSTMRERLL
+RG---GYTSSEEFAADALLVFDNCQTFNED-D-----------------SEV----GKAG
+HIMRR-F-FES-RWEEF-YQ
+>smart|BROMO-uniprot|UPI000387B234|UPI000387B234/2840-2948  PREDICTED: nucleosome-remodeling factor subunit BPTF isoform X11 [Homo sapiens]
+LTPLTE----KDYEGLKRVL---RSL------------------------------Q---
+-----------------------------------------------------------A
+H-KM-A----WPFL-----------EPVD------P--N--D------------------
+-------A----------------PD---------------YYGVIKEPMDLATMEERVQ
+RR---YYEKLTEFVADMTKIFDNCRYYNPS-D-----------------SPF----YQCA
+EVLES-F-FVQ-KLKGF-KA
+>smart|BROMO-uniprot|UPI000387B47D|UPI000387B47D/730-833  PREDICTED: nuclear body protein SP140 isoform X2 [Homo sapiens]
+CPEEQL----KCEFLLLKVY---CCS----------------------------------
+------------------------------------------------------------
+---E-S----SFFA-----------KIPY------Y--Y--Y------------------
+-------I----------------RE---------------ACQGLKEPMWLDKIKKRLN
+EH---GYPQVEGFVQDMRLIFQNHRASYKY-------------------KDF----GQMG
+FRLEA-E-FEK-NFKEV-FA
+>smart|BROMO-uniprot|UPI000387BAC7|UPI000387BAC7/149-256  PREDICTED: protein kinase C-binding protein 1 isoform X10 [Homo sapiens]
+TMLTIE----QLSYLLKFAI---Q-------------------------------KM---
+-----------------------------------------------------------K
+Q-PG-T----DAFQ-----------KPVP------L--E--Q------------------
+-------H----------------PD---------------YAEYIFHPMDLCTLEKNAK
+KK---MYGCTEAFLADAKWILHNCIIYNGG-N-----------------HKL----TQIA
+KVVIK-I-CEH-EMNEI-EV
+>smart|BROMO-uniprot|UPI000387BC10|UPI000387BC10/2911-3019  PREDICTED: nucleosome-remodeling factor subunit BPTF isoform X9 [Homo sapiens]
+LTPLTE----KDYEGLKRVL---RSL------------------------------Q---
+-----------------------------------------------------------A
+H-KM-A----WPFL-----------EPVD------P--N--D------------------
+-------A----------------PD---------------YYGVIKEPMDLATMEERVQ
+RR---YYEKLTEFVADMTKIFDNCRYYNPS-D-----------------SPF----YQCA
+EVLES-F-FVQ-KLKGF-KA
+>smart|BROMO-uniprot|UPI000387BE12|UPI000387BE12/2070-2178  PREDICTED: bromodomain adjacent to zinc finger domain protein 2B isoform X7 [Homo sapiens]
+PKRDDS----KDLALCSMIL---TEM------------------------------E---
+-----------------------------------------------------------T
+H-ED-A----WPFL-----------LPVN------L--K--L------------------
+-------V----------------PG---------------YKKVIKKPMDFSTIREKLS
+SG---QYPNLETFALDVRLVFDNCETFNED-D-----------------SDI----GRAG
+HNMRK-Y-FEK-KWTDT-FK
+>smart|BROMO-uniprot|UPI000387BE29|UPI000387BE29/1090-1197  PREDICTED: bromodomain and WD repeat-containing protein 3 isoform X1 [Homo sapiens]
+AHS----RDEECERVIQGIN---H-------------------------------LL---
+-----------------------------------------------------------S
+L-DF-A----SPFA-----------VPVD------L--S--A------------------
+-------Y----------------PL---------------YCTVVAYPTDLNTIRRRLE
+NR---FYRRISALMWEVRYIEHNARTFNEP-D-----------------SPI----VKAA
+KIVTD-V-LLR-FIGDQS-C
+>smart|BROMO-uniprot|UPI000387BE29|UPI000387BE29/1252-1382  PREDICTED: bromodomain and WD repeat-containing protein 3 isoform X1 [Homo sapiens]
+PDAWKK----QCKELLS-------LI------------------------------Y---
+-----------------------------------------------------------E
+R-ED-S----EPFR-----------QPAD------L--L--SYPGHQEQEGESSESVVPE
+RQQDSSLS----------------ED---------------YQDVIDTPVDFSTVKETLE
+AG---NYGSPLEFYKDVRQIFNNSKAYTSNKK-----------------SRI----YSMM
+LRLSA-L-FES-HIKNI-IS
+>smart|BROMO-uniprot|UPI000387BF00|UPI000387BF00/695-798  PREDICTED: nuclear body protein SP140 isoform X5 [Homo sapiens]
+CPEEQL----KCEFLLLKVY---CCS----------------------------------
+------------------------------------------------------------
+---E-S----SFFA-----------KIPY------Y--Y--Y------------------
+-------I----------------RE---------------ACQGLKEPMWLDKIKKRLN
+EH---GYPQVEGFVQDMRLIFQNHRASYKY-------------------KDF----GQMG
+FRLEA-E-FEK-NFKEV-FA
+>smart|BROMO-uniprot|UPI000387BF57|UPI000387BF57/2836-2944  PREDICTED: nucleosome-remodeling factor subunit BPTF isoform X12 [Homo sapiens]
+LTPLTE----KDYEGLKRVL---RSL------------------------------Q---
+-----------------------------------------------------------A
+H-KM-A----WPFL-----------EPVD------P--N--D------------------
+-------A----------------PD---------------YYGVIKEPMDLATMEERVQ
+RR---YYEKLTEFVADMTKIFDNCRYYNPS-D-----------------SPF----YQCA
+EVLES-F-FVQ-KLKGF-KA
+>smart|BROMO-uniprot|UPI000387C13B|UPI000387C13B/1182-1288  PREDICTED: tripartite motif-containing protein 66 isoform X1 [Homo sapiens]
+SMYDQK----KCEKLVLSLC---C------------------------------------
+------------------------------------------------------------
+N-NL-S----LPFH-----------EPV-------S--P--L------------------
+-------A----------------RH---------------YYQIIKRPMDLSIIRRKLQ
+KKDPAHYTTPEEVVSDVRLMFWNCAKFNYP-D-----------------SEV----AEAG
+RCLEV-F-FEG-WLKEI-YP
+>smart|BROMO-uniprot|UPI000387C35D|UPI000387C35D/2983-3091  PREDICTED: nucleosome-remodeling factor subunit BPTF isoform X4 [Homo sapiens]
+LTPLTE----KDYEGLKRVL---RSL------------------------------Q---
+-----------------------------------------------------------A
+H-KM-A----WPFL-----------EPVD------P--N--D------------------
+-------A----------------PD---------------YYGVIKEPMDLATMEERVQ
+RR---YYEKLTEFVADMTKIFDNCRYYNPS-D-----------------SPF----YQCA
+EVLES-F-FVQ-KLKGF-KA
+>smart|BROMO-uniprot|UPI000387C474|UPI000387C474/192-306  PREDICTED: protein polybromo-1 isoform X2 [Homo sapiens]
+EGSSPA----YLKEILEQLL---EAI------------------------------V---
+------------------------VATNPS-----------------------------G
+R-LI-S----ELFQ-----------KLPS------K--V--Q------------------
+-------Y----------------PD---------------YYAIIKEPIDLKTIAQRIQ
+NG---SYKSIHAMAKDIDLLAKNAKTYNEP-G-----------------SQV----FKDA
+NSIKK-I-FYM-KKAEI-EH
+>smart|BROMO-uniprot|UPI000387C474|UPI000387C474/396-506  PREDICTED: protein polybromo-1 isoform X2 [Homo sapiens]
+FMDVSN----PFYQLYDTVR---SCR-----N-----------------------NQ---
+-----------------------------------------------------------G
+Q-LI-A----EPFY-----------HLPS------K--K--K------------------
+-------Y----------------PD---------------YYQQIKMPISLQQIRTKLK
+NQ---EYETLDHLECDLNLMFENAKRYNVP-N-----------------SAI----YKRV
+LKLQQ-V-MQA-KKKEL-AR
+>smart|BROMO-uniprot|UPI000387C474|UPI000387C474/548-659  PREDICTED: protein polybromo-1 isoform X2 [Homo sapiens]
+KNIRKQ----RMKILFNVVL---EAR------------------------------EPGS
+-----------------------------------------------------------G
+R-RL-C----DLFM-----------VKPS------K--K--D------------------
+-------Y----------------PD---------------YYKIILEPMDLKIIEHNIR
+ND---KYAGEEGMIEDMKLMFRNARHYNEE-G-----------------SQV----YNDA
+HILEK-L-LKE-KRKEL-GP
+>smart|BROMO-uniprot|UPI000387C474|UPI000387C474/60-170  PREDICTED: protein polybromo-1 isoform X2 [Homo sapiens]
+TVDPIA----VCHELYNTIR---DYK-----D-----------------------EQ---
+-----------------------------------------------------------G
+R-LL-C----ELFI-----------RAPK------R--R--N------------------
+-------Q----------------PD---------------YYEVVSQPIDLMKIQQKLK
+ME---EYDDVNLLTADFQLLFNNAKSYYKP-D-----------------SPE----YKAA
+CKLWD-L-YLR-TRNEF-VQ
+>smart|BROMO-uniprot|UPI000387C474|UPI000387C474/683-797  PREDICTED: protein polybromo-1 isoform X2 [Homo sapiens]
+KSKYMTPMQQKLNEVYEAVKNYTD-------------------------------KR---
+-----------------------------------------------------------G
+R-RL-S----AIFL-----------RLPS------R--S--E------------------
+-------L----------------PD---------------YYLTIKKPMDMEKIRSHMM
+AN---KYQDIDSMVEDFVMMFNNACTYNEP-E-----------------SLI----YKDA
+LVLHK-V-LLE-TRRDL-EG
+>smart|BROMO-uniprot|UPI000387C474|UPI000387C474/807-913  PREDICTED: protein polybromo-1 isoform X2 [Homo sapiens]
+TLLIQ----ELIHNLFVSVM------------------------------------S---
+------------------------------------------------------------
+H-QD-D--EGRCYS-----------DSLA------E--I--P------------------
+-------A----------------VD---------------PNFPNKPPLTFDIIRKNVE
+NN---RYRRLDLFQEHMFEVLERARRMNRT-D-----------------SEI----YEDA
+VELQQ-F-FIK-IRDE-LCK
+>smart|BROMO-uniprot|UPI000387C538|UPI000387C538/2974-3082  PREDICTED: nucleosome-remodeling factor subunit BPTF isoform X7 [Homo sapiens]
+LTPLTE----KDYEGLKRVL---RSL------------------------------Q---
+-----------------------------------------------------------A
+H-KM-A----WPFL-----------EPVD------P--N--D------------------
+-------A----------------PD---------------YYGVIKEPMDLATMEERVQ
+RR---YYEKLTEFVADMTKIFDNCRYYNPS-D-----------------SPF----YQCA
+EVLES-F-FVQ-KLKGF-KA
+>smart|BROMO-uniprot|UPI000387C578|UPI000387C578/1457-1568  PREDICTED: transcription activator BRG1 isoform X5 [Homo sapiens]
+PPNLTK----KMKKIVDAVI---KYK-----D-----------------S-----SS---
+-----------------------------------------------------------G
+R-QL-S----EVFI-----------QLPS------R--K--E------------------
+-------L----------------PE---------------YYELIRKPVDFKKIKERIR
+NH---KYRSLNDLEKDVMLLCQNAQTFNLE-G-----------------SLI----YEDS
+IVLQS-V-FTS-VRQKI-EK
+>smart|BROMO-uniprot|UPI000387C725|UPI000387C725/2894-3002  PREDICTED: nucleosome-remodeling factor subunit BPTF isoform X10 [Homo sapiens]
+LTPLTE----KDYEGLKRVL---RSL------------------------------Q---
+-----------------------------------------------------------A
+H-KM-A----WPFL-----------EPVD------P--N--D------------------
+-------A----------------PD---------------YYGVIKEPMDLATMEERVQ
+RR---YYEKLTEFVADMTKIFDNCRYYNPS-D-----------------SPF----YQCA
+EVLES-F-FVQ-KLKGF-KA
+>smart|BROMO-uniprot|UPI000387C801|UPI000387C801/744-845  PREDICTED: nuclear autoantigen Sp-100 isoform X4 [Homo sapiens]
+LPEEQL----KCEFLLLKVY---CDS----------------------------------
+------------------------------------------------------------
+---K-S----CFFA-----------SEPY------Y--N---------------------
+------------------------RE---------------GSQGPQKPMWLNKVKTSLN
+EQ---MYTRVEGFVQDMRLIFHNHKEFYRE-------------------DKF----TRLG
+IQVQD-I-FEK-NFRNI-FA
+>smart|BROMO-uniprot|UPI000387C976|UPI000387C976/1104-1212  PREDICTED: bromodomain-containing protein 8 isoform X3 [Homo sapiens]
+PVQDHL----LFKKTLLPVW---KMI------------------------------A---
+-----------------------------------------------------------S
+H-RF-S----SPFL-----------KPVS------E--R--Q------------------
+-------A----------------PG---------------YKDVVKRPMDLTSLKRNLS
+KG---RIRTMAQFLRDLMLMFQNAVMYNDS-D-----------------HHV----YHMA
+VEMRQ-E-VLE-QIQVL-NI
+>smart|BROMO-uniprot|UPI000387C976|UPI000387C976/708-816  PREDICTED: bromodomain-containing protein 8 isoform X3 [Homo sapiens]
+AIQAQK----IWKKAIMLVW---RAA------------------------------A---
+-----------------------------------------------------------N
+H-RY-A----NVFL-----------QPVT------D--D--I------------------
+-------A----------------PG---------------YHSIVQRPMDLSTIKKNIE
+NG---LIRSTAEFQRDIMLMFQNAVMYNSS-D-----------------HDV----YHMA
+VEMQR-D-VLE-QIQQF-LA
+>smart|BROMO-uniprot|UPI000387C97D|UPI000387C97D/744-845  PREDICTED: nuclear autoantigen Sp-100 isoform X5 [Homo sapiens]
+LPEEQL----KCEFLLLKVY---CDS----------------------------------
+------------------------------------------------------------
+---K-S----CFFA-----------SEPY------Y--N---------------------
+------------------------RE---------------GSQGPQKPMWLNKVKTSLN
+EQ---MYTRVEGFVQDMRLIFHNHKEFYRE-------------------DKF----TRLG
+IQVQD-I-FEK-NFRNI-FA
+>smart|BROMO-uniprot|UPI000387CB06|UPI000387CB06/1077-1189  PREDICTED: bromodomain and WD repeat-containing protein 1 isoform X1 [Homo sapiens]
+GEWGQKSRDEECDRIISGID---Q-------------------------------LL---
+-----------------------------------------------------------N
+L-DI-A----AAFA-----------GPVD------L--C--T------------------
+-------Y----------------PK---------------YCTVVAYPTDLYTIRMRLV
+NR---FYRRLSALVWEVRYIEHNARTFNEP-E-----------------SVI----ARSA
+KKITD-Q-LLK-FIKNQHCT
+>smart|BROMO-uniprot|UPI000387CB06|UPI000387CB06/1237-1342  PREDICTED: bromodomain and WD repeat-containing protein 1 isoform X1 [Homo sapiens]
+ESNWKK----QCKELVN-------LI------------------------------F---
+-----------------------------------------------------------Q
+C-ED-S----EPFR-----------QPVD------L--V--E------------------
+-------Y----------------PD---------------YRDIIDTPMDFGTVRETLD
+AG---NYDSPLEFCKDIRLIFSNAKAYTPNKR-----------------SKI----YSMT
+LRLSA-L-FEE-KMKKI-SS
+>smart|BROMO-uniprot|UPI000387CB54|UPI000387CB54/945-1055  PREDICTED: CREB-binding protein isoform X2 [Homo sapiens]
+IFKPE-----ELRQALMPTL---EAL------------------------------Y---
+-----------------------------------------------------------R
+QDPE-S----LPFR-----------QPVD------PQLL--G------------------
+-------I----------------PD---------------YFDIVKNPMDLSTIKRKLD
+TG---QYQEPWQYVDDVWLMFNNAWLYNRK-T-----------------SRV----YKFC
+SKLAE-V-FEQ-EIDPV-MQ
+>smart|BROMO-uniprot|UPI000387CE5C|UPI000387CE5C/564-667  PREDICTED: nuclear body protein SP140 isoform X7 [Homo sapiens]
+CPEEQL----KCEFLLLKVY---CCS----------------------------------
+------------------------------------------------------------
+---E-S----SFFA-----------KIPY------Y--Y--Y------------------
+-------I----------------RE---------------ACQGLKEPMWLDKIKKRLN
+EH---GYPQVEGFVQDMRLIFQNHRASYKY-------------------KDF----GQMG
+FRLEA-E-FEK-NFKEV-FA
+>smart|BROMO-uniprot|UPI000387D028|UPI000387D028/2979-3087  PREDICTED: nucleosome-remodeling factor subunit BPTF isoform X5 [Homo sapiens]
+LTPLTE----KDYEGLKRVL---RSL------------------------------Q---
+-----------------------------------------------------------A
+H-KM-A----WPFL-----------EPVD------P--N--D------------------
+-------A----------------PD---------------YYGVIKEPMDLATMEERVQ
+RR---YYEKLTEFVADMTKIFDNCRYYNPS-D-----------------SPF----YQCA
+EVLES-F-FVQ-KLKGF-KA
+>smart|BROMO-uniprot|UPI000387D329|UPI000387D329/983-1089  PREDICTED: E3 ubiquitin-protein ligase TRIM33 isoform X2 [Homo sapiens]
+SPVDQR----KCERLLLYLY---C------------------------------------
+------------------------------------------------------------
+H-EL-S----IEFQ-----------EPV-------P--A--S------------------
+-------I----------------PN---------------YYKIIKKPMDLSTVKKKLQ
+KKHSQHYQIPDDFVADVRLIFKNCERFNEA-D-----------------SEV----AQAG
+KAVAL-Y-FED-KLTEI-YS
+>smart|BROMO-uniprot|UPI000387D45C|UPI000387D45C/1174-1282  PREDICTED: bromodomain-containing protein 8 isoform X1 [Homo sapiens]
+PVQDHL----LFKKTLLPVW---KMI------------------------------A---
+-----------------------------------------------------------S
+H-RF-S----SPFL-----------KPVS------E--R--Q------------------
+-------A----------------PG---------------YKDVVKRPMDLTSLKRNLS
+KG---RIRTMAQFLRDLMLMFQNAVMYNDS-D-----------------HHV----YHMA
+VEMRQ-E-VLE-QIQVL-NI
+>smart|BROMO-uniprot|UPI000387D45C|UPI000387D45C/778-886  PREDICTED: bromodomain-containing protein 8 isoform X1 [Homo sapiens]
+AIQAQK----IWKKAIMLVW---RAA------------------------------A---
+-----------------------------------------------------------N
+H-RY-A----NVFL-----------QPVT------D--D--I------------------
+-------A----------------PG---------------YHSIVQRPMDLSTIKKNIE
+NG---LIRSTAEFQRDIMLMFQNAVMYNSS-D-----------------HDV----YHMA
+VEMQR-D-VLE-QIQQF-LA
+>smart|BROMO-uniprot|UPI000387D540|UPI000387D540/1972-2080  PREDICTED: bromodomain adjacent to zinc finger domain protein 2B isoform X14 [Homo sapiens]
+PKRDDS----KDLALCSMIL---TEM------------------------------E---
+-----------------------------------------------------------T
+H-ED-A----WPFL-----------LPVN------L--K--L------------------
+-------V----------------PG---------------YKKVIKKPMDFSTIREKLS
+SG---QYPNLETFALDVRLVFDNCETFNED-D-----------------SDI----GRAG
+HNMRK-Y-FEK-KWTDT-FK
+>smart|BROMO-uniprot|UPI000387D554|UPI000387D554/149-256  PREDICTED: protein kinase C-binding protein 1 isoform X22 [Homo sapiens]
+TMLTIE----QLSYLLKFAI---Q-------------------------------KM---
+-----------------------------------------------------------K
+Q-PG-T----DAFQ-----------KPVP------L--E--Q------------------
+-------H----------------PD---------------YAEYIFHPMDLCTLEKNAK
+KK---MYGCTEAFLADAKWILHNCIIYNGG-N-----------------HKL----TQIA
+KVVIK-I-CEH-EMNEI-EV
+>smart|BROMO-uniprot|UPI000387D729|UPI000387D729/129-237  PREDICTED: bromodomain-containing protein 7 isoform X1 [Homo sapiens]
+EEVEQT----PLQEALNQLM---RQL------------------------------Q---
+-----------------------------------------------------------R
+K-DP-S----AFFS-----------FPVT------D--F--I------------------
+-------A----------------PG---------------YSMIIKHPMDFSTMKEKIK
+NN---DYQSIEELKDNFKLMCTNAMIYNKP-E-----------------TIY----YKAA
+KKLLH-S-GMK-ILSQE-RI
+>smart|BROMO-uniprot|UPI000387D858|UPI000387D858/142-249  PREDICTED: protein kinase C-binding protein 1 isoform X7 [Homo sapiens]
+TMLTIE----QLSYLLKFAI---Q-------------------------------KM---
+-----------------------------------------------------------K
+Q-PG-T----DAFQ-----------KPVP------L--E--Q------------------
+-------H----------------PD---------------YAEYIFHPMDLCTLEKNAK
+KK---MYGCTEAFLADAKWILHNCIIYNGG-N-----------------HKL----TQIA
+KVVIK-I-CEH-EMNEI-EV
+>smart|BROMO-uniprot|UPI000387DA7F|UPI000387DA7F/3036-3144  PREDICTED: nucleosome-remodeling factor subunit BPTF isoform X2 [Homo sapiens]
+LTPLTE----KDYEGLKRVL---RSL------------------------------Q---
+-----------------------------------------------------------A
+H-KM-A----WPFL-----------EPVD------P--N--D------------------
+-------A----------------PD---------------YYGVIKEPMDLATMEERVQ
+RR---YYEKLTEFVADMTKIFDNCRYYNPS-D-----------------SPF----YQCA
+EVLES-F-FVQ-KLKGF-KA
+>smart|BROMO-uniprot|UPI0003AFF952|UPI0003AFF952/26-136  BROMODOMAIN-CONTAINING PROTEIN 4 [Homo sapiens]
+PKRQTN----QLQYLLRVVL---KTL------------------------------W---
+-----------------------------------------------------------K
+H-QF-A----WPFQ-----------QPVD------AVKL--N------------------
+-------L----------------PD---------------YYKIIKTPMDMGTIKKRLE
+NN---YYWNAQECIQDFNTMFTNCYIYNKP-G-----------------DDI----VLMA
+EALEK-L-FLQ-KINEL-PT
